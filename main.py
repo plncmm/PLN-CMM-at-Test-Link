@@ -1,3 +1,35 @@
+import random 
+
+def split_dataset(path, train_size, val_size, test_size):
+    with open(path) as f:
+        data = f.read()
+    
+    sentences = data.split("\n\n")[:-1]
+
+    random.shuffle(sentences)
+    n_train = int(len(sentences) * train_size)
+    n_val = int(len(sentences) * val_size)
+
+    train_file = open("train.iob2", "w")
+    for sent in sentences[:n_train]:
+        train_file.write(sent)
+        train_file.write("\n\n")
+    train_file.close()
+
+    dev_file = open("val.iob2", "w")
+    for sent in sentences[n_train : n_train + n_val]:
+        dev_file.write(sent)
+        dev_file.write("\n\n")
+    dev_file.close()
+
+    test_file = open("test.iob2", "w")
+    for sent in sentences[n_train + n_val :]:
+        test_file.write(sent)
+        test_file.write("\n\n")
+    test_file.close()
+    
+    
+
 if __name__=='__main__':
     d = {}
     f = open('TESTLINK_training_data/training.txt','r').read()
@@ -24,7 +56,7 @@ if __name__=='__main__':
         d[id] = {'text': text, 'relations': relations}
     
 
-    output = open('ner.conll', 'w')
+    output = open('ner.iob2', 'w')
 
     for i, (id, data) in enumerate(d.items()):
         total_entities = 0
@@ -49,20 +81,22 @@ if __name__=='__main__':
 
                     if start_index==head_start_index and end_index<=head_end_index:
                         label='B-PROCEDURE'
-                        total_entities+=1
                     
                     elif start_index>head_start_index and end_index<=head_end_index:
                         label='I-PROCEDURE'
                     
                     if start_index==tail_start_index and end_index<=tail_end_index:
                         label='B-RESULT'
-                        total_entities+=1
                     
                     elif start_index>tail_start_index and end_index<=tail_end_index:
                         label='I-RESULT'
 
+                
                 output.write(f'{token} {label}\n')   
                
             output.write('\n')
+    output.close()
+
+    split_dataset('ner.iob2', train_size=0.6, val_size=0.2, test_size=0.2)
 
         

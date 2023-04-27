@@ -1,0 +1,6127 @@
+# global.columns = id form ner
+# text = La posición del dorso del paciente fue paralela al suelo
+# sentence_id = 1
+1 La O
+2 posición O
+3 del O
+4 dorso O
+5 del O
+6 paciente O
+7 fue O
+8 paralela O
+9 al O
+10 suelo O
+
+# global.columns = id form ner
+# text = .
+# sentence_id = 2
+1 . O
+
+# global.columns = id form ner
+# text = - Técnica quirúrgica Se realizó mediante microcirugía convencional con incisión de dos traveses de dedo en la línea media , sección de aponeurosis común sacro-lumbar , retracción de musculatura paravertebral , flavectomía , disección de la raíz y escisión de hernia discal extraída .
+# sentence_id = 3
+1 - O
+2 Técnica O
+3 quirúrgica O
+4 Se O
+5 realizó O
+6 mediante O
+7 microcirugía O
+8 convencional O
+9 con O
+10 incisión O
+11 de O
+12 dos O
+13 traveses O
+14 de O
+15 dedo O
+16 en O
+17 la O
+18 línea O
+19 media O
+20 , O
+21 sección O
+22 de O
+23 aponeurosis O
+24 común O
+25 sacro-lumbar O
+26 , O
+27 retracción O
+28 de O
+29 musculatura O
+30 paravertebral O
+31 , O
+32 flavectomía O
+33 , O
+34 disección O
+35 de O
+36 la O
+37 raíz O
+38 y O
+39 escisión O
+40 de O
+41 hernia O
+42 discal O
+43 extraída O
+44 . O
+
+# global.columns = id form ner
+# text = La pérdida hemática fue mínima y no se administró sangre .
+# sentence_id = 4
+1 La O
+2 pérdida O
+3 hemática O
+4 fue O
+5 mínima O
+6 y O
+7 no O
+8 se O
+9 administró O
+10 sangre O
+11 . O
+
+# global.columns = id form ner
+# text = Se utilizó una pequeña cantidad de agua oxigenada como hemostático ( alrededor de 5 cc )
+# sentence_id = 5
+1 Se O
+2 utilizó O
+3 una O
+4 pequeña O
+5 cantidad O
+6 de O
+7 agua O
+8 oxigenada O
+9 como O
+10 hemostático O
+11 ( O
+12 alrededor O
+13 de O
+14 5 O
+15 cc O
+16 ) O
+
+# global.columns = id form ner
+# text = .
+# sentence_id = 6
+1 . O
+
+# global.columns = id form ner
+# text = - Postoperatorio inmediato Al despertar de la anestesia , la paciente comunicó que no veía absolutamente nada por ninguno de los dos ojos .
+# sentence_id = 7
+1 - O
+2 Postoperatorio O
+3 inmediato O
+4 Al O
+5 despertar O
+6 de O
+7 la O
+8 anestesia O
+9 , O
+10 la O
+11 paciente O
+12 comunicó O
+13 que O
+14 no O
+15 veía O
+16 absolutamente O
+17 nada O
+18 por O
+19 ninguno O
+20 de O
+21 los O
+22 dos O
+23 ojos O
+24 . O
+
+# global.columns = id form ner
+# text = Se solicitó colaboración a Oftalmología , sin hallar patología .
+# sentence_id = 8
+1 Se O
+2 solicitó O
+3 colaboración O
+4 a O
+5 Oftalmología O
+6 , O
+7 sin O
+8 hallar O
+9 patología O
+10 . O
+
+# global.columns = id form ner
+# text = La tensión ocular fue normal .
+# sentence_id = 9
+# relations = 2;2;5;5;RESULT_OF
+1 La O
+2 tensión B-PROCEDURE
+3 ocular O
+4 fue O
+5 normal B-RESULT
+6 . O
+
+# global.columns = id form ner
+# text = El reflejo fotomotor y consensual estaban conservados .
+# sentence_id = 10
+1 El O
+2 reflejo O
+3 fotomotor O
+4 y O
+5 consensual O
+6 estaban O
+7 conservados O
+8 . O
+
+# global.columns = id form ner
+# text = Se practicó TC cerebral de urgencia , en el que se apreció una imagen en circulación coroidea intraventricular derecha compatible con burbuja de gas .
+# sentence_id = 11
+1 Se O
+2 practicó O
+3 TC O
+4 cerebral O
+5 de O
+6 urgencia O
+7 , O
+8 en O
+9 el O
+10 que O
+11 se O
+12 apreció O
+13 una O
+14 imagen O
+15 en O
+16 circulación O
+17 coroidea O
+18 intraventricular O
+19 derecha O
+20 compatible O
+21 con O
+22 burbuja O
+23 de O
+24 gas O
+25 . O
+
+# global.columns = id form ner
+# text = Otra imagen yuxtaósea occipital derecha , se consideró dudosa .
+# sentence_id = 12
+1 Otra O
+2 imagen O
+3 yuxtaósea O
+4 occipital O
+5 derecha O
+6 , O
+7 se O
+8 consideró O
+9 dudosa O
+10 . O
+
+# global.columns = id form ner
+# text = Se realizó una RNM craneal , que mostró un incremento difuso de la señal en secuencias T2 en áreas posteriores de ambos lóbulos occipitales .
+# sentence_id = 13
+1 Se O
+2 realizó O
+3 una O
+4 RNM O
+5 craneal O
+6 , O
+7 que O
+8 mostró O
+9 un O
+10 incremento O
+11 difuso O
+12 de O
+13 la O
+14 señal O
+15 en O
+16 secuencias O
+17 T2 O
+18 en O
+19 áreas O
+20 posteriores O
+21 de O
+22 ambos O
+23 lóbulos O
+24 occipitales O
+25 . O
+
+# global.columns = id form ner
+# text = La angio-RNM fue normal .
+# sentence_id = 14
+# relations = 2;2;4;4;RESULT_OF
+1 La O
+2 angio-RNM B-PROCEDURE
+3 fue O
+4 normal B-RESULT
+5 . O
+
+# global.columns = id form ner
+# text = El cuadro fue interpretado como de origen vascular , bien posicional , o bien derivado de los antecedentes migrañosos de la paciente , siendo sometida empíricamente a tratamiento con dexametasona y vasodilatadores .
+# sentence_id = 15
+1 El O
+2 cuadro O
+3 fue O
+4 interpretado O
+5 como O
+6 de O
+7 origen O
+8 vascular O
+9 , O
+10 bien O
+11 posicional O
+12 , O
+13 o O
+14 bien O
+15 derivado O
+16 de O
+17 los O
+18 antecedentes O
+19 migrañosos O
+20 de O
+21 la O
+22 paciente O
+23 , O
+24 siendo O
+25 sometida O
+26 empíricamente O
+27 a O
+28 tratamiento O
+29 con O
+30 dexametasona O
+31 y O
+32 vasodilatadores O
+33 . O
+
+# global.columns = id form ner
+# text = A las 6 horas refirió percibir formas cromáticas indistinguibles y tenues , apareciendo reflejo de amenaza .
+# sentence_id = 16
+1 A O
+2 las O
+3 6 O
+4 horas O
+5 refirió O
+6 percibir O
+7 formas O
+8 cromáticas O
+9 indistinguibles O
+10 y O
+11 tenues O
+12 , O
+13 apareciendo O
+14 reflejo O
+15 de O
+16 amenaza O
+17 . O
+
+# global.columns = id form ner
+# text = A la mañana siguiente ( 12 horas tras la intervención ) , refería haber recuperado la visión , si bien percibía halos cromáticos alrededor de las figuras que se le presentaban .
+# sentence_id = 17
+1 A O
+2 la O
+3 mañana O
+4 siguiente O
+5 ( O
+6 12 O
+7 horas O
+8 tras O
+9 la O
+10 intervención O
+11 ) O
+12 , O
+13 refería O
+14 haber O
+15 recuperado O
+16 la O
+17 visión O
+18 , O
+19 si O
+20 bien O
+21 percibía O
+22 halos O
+23 cromáticos O
+24 alrededor O
+25 de O
+26 las O
+27 figuras O
+28 que O
+29 se O
+30 le O
+31 presentaban O
+32 . O
+
+# global.columns = id form ner
+# text = Estas discromatopsias desaparecieron en 24 horas .
+# sentence_id = 18
+1 Estas O
+2 discromatopsias O
+3 desaparecieron O
+4 en O
+5 24 O
+6 horas O
+7 . O
+
+# global.columns = id form ner
+# text = Una RNM de control mostró mejoría importante de las imágenes occipitales vistas en la RNM previa .
+# sentence_id = 19
+1 Una O
+2 RNM O
+3 de O
+4 control O
+5 mostró O
+6 mejoría O
+7 importante O
+8 de O
+9 las O
+10 imágenes O
+11 occipitales O
+12 vistas O
+13 en O
+14 la O
+15 RNM O
+16 previa O
+17 . O
+
+# global.columns = id form ner
+# text = Los controles posteriores ( al mes de la cirugía ) mostraron normalidad visual .
+# sentence_id = 20
+# relations = 2;2;12;13;RESULT_OF
+1 Los O
+2 controles B-PROCEDURE
+3 posteriores O
+4 ( O
+5 al O
+6 mes O
+7 de O
+8 la O
+9 cirugía O
+10 ) O
+11 mostraron O
+12 normalidad B-RESULT
+13 visual I-RESULT
+14 . O
+
+# global.columns = id form ner
+# text = Mujer de 51 años de edad , con antecedentes de anexectomía unilateral por endometriosis , que tras 24 horas de evolución presenta fiebre de hasta 40 oC y odinofagia , remitiendo dicha sintomatología parcialmente con antiinflamatorios no esteroideos ( AINE ) .
+# sentence_id = 21
+# relations = 23;23;26;27;RESULT_OF
+1 Mujer O
+2 de O
+3 51 O
+4 años O
+5 de O
+6 edad O
+7 , O
+8 con O
+9 antecedentes O
+10 de O
+11 anexectomía O
+12 unilateral O
+13 por O
+14 endometriosis O
+15 , O
+16 que O
+17 tras O
+18 24 O
+19 horas O
+20 de O
+21 evolución O
+22 presenta O
+23 fiebre B-PROCEDURE
+24 de O
+25 hasta O
+26 40 B-RESULT
+27 oC I-RESULT
+28 y O
+29 odinofagia O
+30 , O
+31 remitiendo O
+32 dicha O
+33 sintomatología O
+34 parcialmente O
+35 con O
+36 antiinflamatorios O
+37 no O
+38 esteroideos O
+39 ( O
+40 AINE O
+41 ) O
+42 . O
+
+# global.columns = id form ner
+# text = Posteriormente aparecen vómitos y varias deposiciones diarreicas , con persistencia del síndrome febril , por lo que acude al centro de salud .
+# sentence_id = 22
+1 Posteriormente O
+2 aparecen O
+3 vómitos O
+4 y O
+5 varias O
+6 deposiciones O
+7 diarreicas O
+8 , O
+9 con O
+10 persistencia O
+11 del O
+12 síndrome O
+13 febril O
+14 , O
+15 por O
+16 lo O
+17 que O
+18 acude O
+19 al O
+20 centro O
+21 de O
+22 salud O
+23 . O
+
+# global.columns = id form ner
+# text = Tras su valoración médica se prescribe tratamiento antitérmico y observación domiciliaria .
+# sentence_id = 23
+1 Tras O
+2 su O
+3 valoración O
+4 médica O
+5 se O
+6 prescribe O
+7 tratamiento O
+8 antitérmico O
+9 y O
+10 observación O
+11 domiciliaria O
+12 . O
+
+# global.columns = id form ner
+# text = Horas después sufre un empeoramiento del estado general , con hipotensión , refiriendo además cefalea y dorsalgia , por lo que se avisa al Servicio de Urgencias , que decide su traslado al hospital .
+# sentence_id = 24
+1 Horas O
+2 después O
+3 sufre O
+4 un O
+5 empeoramiento O
+6 del O
+7 estado O
+8 general O
+9 , O
+10 con O
+11 hipotensión O
+12 , O
+13 refiriendo O
+14 además O
+15 cefalea O
+16 y O
+17 dorsalgia O
+18 , O
+19 por O
+20 lo O
+21 que O
+22 se O
+23 avisa O
+24 al O
+25 Servicio O
+26 de O
+27 Urgencias O
+28 , O
+29 que O
+30 decide O
+31 su O
+32 traslado O
+33 al O
+34 hospital O
+35 . O
+
+# global.columns = id form ner
+# text = En la exploración física destaca un regular estado general , taquipnea en reposo y taquicardia , no pudiendo captarse la presión arterial , así como tampoco resulta posible palpar los pulsos periféricos radiales .
+# sentence_id = 25
+1 En O
+2 la O
+3 exploración O
+4 física O
+5 destaca O
+6 un O
+7 regular O
+8 estado O
+9 general O
+10 , O
+11 taquipnea O
+12 en O
+13 reposo O
+14 y O
+15 taquicardia O
+16 , O
+17 no O
+18 pudiendo O
+19 captarse O
+20 la O
+21 presión O
+22 arterial O
+23 , O
+24 así O
+25 como O
+26 tampoco O
+27 resulta O
+28 posible O
+29 palpar O
+30 los O
+31 pulsos O
+32 periféricos O
+33 radiales O
+34 . O
+
+# global.columns = id form ner
+# text = No presenta rigidez de nuca ni focalidad neurológica .
+# sentence_id = 26
+1 No O
+2 presenta O
+3 rigidez O
+4 de O
+5 nuca O
+6 ni O
+7 focalidad O
+8 neurológica O
+9 . O
+
+# global.columns = id form ner
+# text = Se realizan analítica y gasometría , que ponen de manifiesto una marcada leucocitopenia ( 2.440 / ml ) y acidosis metabólica ( pH 7,21 ; HCO3 14 mmol / l ; EB - 11,1 mmol / l ) .
+# sentence_id = 27
+# relations = 13;13;15;17;RESULT_OF|23;23;24;24;RESULT_OF|26;26;27;30;RESULT_OF|32;32;34;37;RESULT_OF
+1 Se O
+2 realizan O
+3 analítica O
+4 y O
+5 gasometría O
+6 , O
+7 que O
+8 ponen O
+9 de O
+10 manifiesto O
+11 una O
+12 marcada O
+13 leucocitopenia B-PROCEDURE
+14 ( O
+15 2.440 B-RESULT
+16 / I-RESULT
+17 ml I-RESULT
+18 ) O
+19 y O
+20 acidosis O
+21 metabólica O
+22 ( O
+23 pH B-PROCEDURE
+24 7,21 B-RESULT
+25 ; O
+26 HCO3 B-PROCEDURE
+27 14 B-RESULT
+28 mmol I-RESULT
+29 / I-RESULT
+30 l I-RESULT
+31 ; O
+32 EB B-PROCEDURE
+33 - O
+34 11,1 B-RESULT
+35 mmol I-RESULT
+36 / I-RESULT
+37 l I-RESULT
+38 ) O
+39 . O
+
+# global.columns = id form ner
+# text = La paciente ingresa en la Unidad de Cuidados Intensivos ( UCI ) , donde a pesar de recibir tratamiento con corticoides y antibioticoterapia intravenosa empeora y fallece 2 horas más tarde , tras la realización de maniobras de reanimación cardiopulmonar .
+# sentence_id = 28
+1 La O
+2 paciente O
+3 ingresa O
+4 en O
+5 la O
+6 Unidad O
+7 de O
+8 Cuidados O
+9 Intensivos O
+10 ( O
+11 UCI O
+12 ) O
+13 , O
+14 donde O
+15 a O
+16 pesar O
+17 de O
+18 recibir O
+19 tratamiento O
+20 con O
+21 corticoides O
+22 y O
+23 antibioticoterapia O
+24 intravenosa O
+25 empeora O
+26 y O
+27 fallece O
+28 2 O
+29 horas O
+30 más O
+31 tarde O
+32 , O
+33 tras O
+34 la O
+35 realización O
+36 de O
+37 maniobras O
+38 de O
+39 reanimación O
+40 cardiopulmonar O
+41 . O
+
+# global.columns = id form ner
+# text = Debido a la evolución tórpida y al origen incierto del cuadro de shock , no se certifica la defunción .
+# sentence_id = 29
+1 Debido O
+2 a O
+3 la O
+4 evolución O
+5 tórpida O
+6 y O
+7 al O
+8 origen O
+9 incierto O
+10 del O
+11 cuadro O
+12 de O
+13 shock O
+14 , O
+15 no O
+16 se O
+17 certifica O
+18 la O
+19 defunción O
+20 . O
+
+# global.columns = id form ner
+# text = Hallazgos de la autopsia Como hallazgos significativos , en el examen externo destacan un exantema cutáneo generalizado , más acusado a nivel cefálico y en la cara anterior del tercio superior del tórax , y petequias en la conjuntiva tarsal de ambos párpados inferiores .
+# sentence_id = 30
+1 Hallazgos O
+2 de O
+3 la O
+4 autopsia O
+5 Como O
+6 hallazgos O
+7 significativos O
+8 , O
+9 en O
+10 el O
+11 examen O
+12 externo O
+13 destacan O
+14 un O
+15 exantema O
+16 cutáneo O
+17 generalizado O
+18 , O
+19 más O
+20 acusado O
+21 a O
+22 nivel O
+23 cefálico O
+24 y O
+25 en O
+26 la O
+27 cara O
+28 anterior O
+29 del O
+30 tercio O
+31 superior O
+32 del O
+33 tórax O
+34 , O
+35 y O
+36 petequias O
+37 en O
+38 la O
+39 conjuntiva O
+40 tarsal O
+41 de O
+42 ambos O
+43 párpados O
+44 inferiores O
+45 . O
+
+# global.columns = id form ner
+# text = En el examen interno , macroscópicamente se aprecia : - Congestión pulmonar moderada con edema pulmonar importante de características alveolar e intersticial con espuma bronquial
+# sentence_id = 31
+1 En O
+2 el O
+3 examen O
+4 interno O
+5 , O
+6 macroscópicamente O
+7 se O
+8 aprecia O
+9 : O
+10 - O
+11 Congestión O
+12 pulmonar O
+13 moderada O
+14 con O
+15 edema O
+16 pulmonar O
+17 importante O
+18 de O
+19 características O
+20 alveolar O
+21 e O
+22 intersticial O
+23 con O
+24 espuma O
+25 bronquial O
+
+# global.columns = id form ner
+# text = .
+# sentence_id = 32
+1 . O
+
+# global.columns = id form ner
+# text = - Derrame pleural derecho .
+# sentence_id = 33
+1 - O
+2 Derrame O
+3 pleural O
+4 derecho O
+5 . O
+
+# global.columns = id form ner
+# text = Derrame pericárdico leve
+# sentence_id = 34
+1 Derrame O
+2 pericárdico O
+3 leve O
+
+# global.columns = id form ner
+# text = .
+# sentence_id = 35
+1 . O
+
+# global.columns = id form ner
+# text = - Fluido exudativo en tejido subcutáneo retromamario de ambos lados , de aspecto purulento
+# sentence_id = 36
+1 - O
+2 Fluido O
+3 exudativo O
+4 en O
+5 tejido O
+6 subcutáneo O
+7 retromamario O
+8 de O
+9 ambos O
+10 lados O
+11 , O
+12 de O
+13 aspecto O
+14 purulento O
+
+# global.columns = id form ner
+# text = .
+# sentence_id = 37
+1 . O
+
+# global.columns = id form ner
+# text = - Hígado de aspecto esteatósico con punteado hemorrágico
+# sentence_id = 38
+1 - O
+2 Hígado O
+3 de O
+4 aspecto O
+5 esteatósico O
+6 con O
+7 punteado O
+8 hemorrágico O
+
+# global.columns = id form ner
+# text = .
+# sentence_id = 39
+1 . O
+
+# global.columns = id form ner
+# text = - Ambas glándulas suprarrenales con médula de aspecto congestivo-hemorrágico
+# sentence_id = 40
+1 - O
+2 Ambas O
+3 glándulas O
+4 suprarrenales O
+5 con O
+6 médula O
+7 de O
+8 aspecto O
+9 congestivo-hemorrágico O
+
+# global.columns = id form ner
+# text = .
+# sentence_id = 41
+1 . O
+
+# global.columns = id form ner
+# text = - El encéfalo presenta un aspecto congestivo y edematoso generalizado , con hallazgo casual de un quiste en el lóbulo parietal izquierdo .
+# sentence_id = 42
+1 - O
+2 El O
+3 encéfalo O
+4 presenta O
+5 un O
+6 aspecto O
+7 congestivo O
+8 y O
+9 edematoso O
+10 generalizado O
+11 , O
+12 con O
+13 hallazgo O
+14 casual O
+15 de O
+16 un O
+17 quiste O
+18 en O
+19 el O
+20 lóbulo O
+21 parietal O
+22 izquierdo O
+23 . O
+
+# global.columns = id form ner
+# text = Se remiten para estudios toxicológico , microbiológico e histopatológico muestras de encéfalo , pulmón , hígado , bazo , suprarrenales , corazón , sangre periférica , humor vítreo , líquido pericárdico , contenido intestinal , frotis bronquial , derrame pleural e hisopo impregnado del exudado subcutáneo del pectoral derecho .
+# sentence_id = 43
+1 Se O
+2 remiten O
+3 para O
+4 estudios O
+5 toxicológico O
+6 , O
+7 microbiológico O
+8 e O
+9 histopatológico O
+10 muestras O
+11 de O
+12 encéfalo O
+13 , O
+14 pulmón O
+15 , O
+16 hígado O
+17 , O
+18 bazo O
+19 , O
+20 suprarrenales O
+21 , O
+22 corazón O
+23 , O
+24 sangre O
+25 periférica O
+26 , O
+27 humor O
+28 vítreo O
+29 , O
+30 líquido O
+31 pericárdico O
+32 , O
+33 contenido O
+34 intestinal O
+35 , O
+36 frotis O
+37 bronquial O
+38 , O
+39 derrame O
+40 pleural O
+41 e O
+42 hisopo O
+43 impregnado O
+44 del O
+45 exudado O
+46 subcutáneo O
+47 del O
+48 pectoral O
+49 derecho O
+50 . O
+
+# global.columns = id form ner
+# text = Los resultados del estudio microbiológico realizado mediante técnicas antigénicas , cultivo y reacción en cadena de la polimerasa ( PCR ) en tiempo real detectan la presencia de N . meningitidis serogrupo C en sangre periférica , suero y , en escasa cantidad , a nivel encefálico .
+# sentence_id = 44
+1 Los O
+2 resultados O
+3 del O
+4 estudio O
+5 microbiológico O
+6 realizado O
+7 mediante O
+8 técnicas O
+9 antigénicas O
+10 , O
+11 cultivo O
+12 y O
+13 reacción O
+14 en O
+15 cadena O
+16 de O
+17 la O
+18 polimerasa O
+19 ( O
+20 PCR O
+21 ) O
+22 en O
+23 tiempo O
+24 real O
+25 detectan O
+26 la O
+27 presencia O
+28 de O
+29 N O
+30 . O
+31 meningitidis O
+32 serogrupo O
+33 C O
+34 en O
+35 sangre O
+36 periférica O
+37 , O
+38 suero O
+39 y O
+40 , O
+41 en O
+42 escasa O
+43 cantidad O
+44 , O
+45 a O
+46 nivel O
+47 encefálico O
+48 . O
+
+# global.columns = id form ner
+# text = Se realizan la caracterización epidemiológica de la cepa y el estudio de resistencia a antibióticos mediante concentración mínima inhibitoria ( CMI ) .
+# sentence_id = 45
+1 Se O
+2 realizan O
+3 la O
+4 caracterización O
+5 epidemiológica O
+6 de O
+7 la O
+8 cepa O
+9 y O
+10 el O
+11 estudio O
+12 de O
+13 resistencia O
+14 a O
+15 antibióticos O
+16 mediante O
+17 concentración O
+18 mínima O
+19 inhibitoria O
+20 ( O
+21 CMI O
+22 ) O
+23 . O
+
+# global.columns = id form ner
+# text = A nivel histopatológico se describen como hallazgos en el encéfalo congestión y edema , así como la existencia de un meningioma transicional-psamomatoso .
+# sentence_id = 46
+1 A O
+2 nivel O
+3 histopatológico O
+4 se O
+5 describen O
+6 como O
+7 hallazgos O
+8 en O
+9 el O
+10 encéfalo O
+11 congestión O
+12 y O
+13 edema O
+14 , O
+15 así O
+16 como O
+17 la O
+18 existencia O
+19 de O
+20 un O
+21 meningioma O
+22 transicional-psamomatoso O
+23 . O
+
+# global.columns = id form ner
+# text = Ambas suprarrenales presentan hemorragia grave ; el hígado muestra signos sugestivos de shock en fase inicial , y a nivel renal hay alteraciones compatibles con CID .
+# sentence_id = 47
+1 Ambas O
+2 suprarrenales O
+3 presentan O
+4 hemorragia O
+5 grave O
+6 ; O
+7 el O
+8 hígado O
+9 muestra O
+10 signos O
+11 sugestivos O
+12 de O
+13 shock O
+14 en O
+15 fase O
+16 inicial O
+17 , O
+18 y O
+19 a O
+20 nivel O
+21 renal O
+22 hay O
+23 alteraciones O
+24 compatibles O
+25 con O
+26 CID O
+27 . O
+
+# global.columns = id form ner
+# text = Además , se diagnostica esplenomegalia y cierta miocarditis neutrofílica .
+# sentence_id = 48
+1 Además O
+2 , O
+3 se O
+4 diagnostica O
+5 esplenomegalia O
+6 y O
+7 cierta O
+8 miocarditis O
+9 neutrofílica O
+10 . O
+
+# global.columns = id form ner
+# text = El estudio toxicológico muestra tan solo resultado positivo para dipirona o metamizol .
+# sentence_id = 49
+# relations = 2;2;7;8;RESULT_OF|7;8;10;10;RESULT_OF|7;8;12;12;RESULT_OF
+1 El O
+2 estudio B-PROCEDURE
+3 toxicológico O
+4 muestra O
+5 tan O
+6 solo O
+7 resultado B-RESULT
+8 positivo I-RESULT
+9 para O
+10 dipirona B-PROCEDURE
+11 o O
+12 metamizol B-PROCEDURE
+13 . O
+
+# global.columns = id form ner
+# text = Basándose en los hallazgos descritos se establecen como causas de la muerte : fallo multiorgánico producido por una septicemia fulminante por meningococo ( N . meningitidis serogrupo C ) y síndrome de Waterhouse-Friderichsen .
+# sentence_id = 50
+1 Basándose O
+2 en O
+3 los O
+4 hallazgos O
+5 descritos O
+6 se O
+7 establecen O
+8 como O
+9 causas O
+10 de O
+11 la O
+12 muerte O
+13 : O
+14 fallo O
+15 multiorgánico O
+16 producido O
+17 por O
+18 una O
+19 septicemia O
+20 fulminante O
+21 por O
+22 meningococo O
+23 ( O
+24 N O
+25 . O
+26 meningitidis O
+27 serogrupo O
+28 C O
+29 ) O
+30 y O
+31 síndrome O
+32 de O
+33 Waterhouse-Friderichsen O
+34 . O
+
+# global.columns = id form ner
+# text = Mujer de 39 años con antecedente de bocio difuso normofuncionante , mioma uterino calcificado , periodos menstruales normales , un embarazo sin incidencias y con parto por vía vaginal , que acude a urgencias por dolor abdominal cólico junto con distensión abdominal y varias deposiciones líquidas de 48 horas de evolución .
+# sentence_id = 51
+1 Mujer O
+2 de O
+3 39 O
+4 años O
+5 con O
+6 antecedente O
+7 de O
+8 bocio O
+9 difuso O
+10 normofuncionante O
+11 , O
+12 mioma O
+13 uterino O
+14 calcificado O
+15 , O
+16 periodos O
+17 menstruales O
+18 normales O
+19 , O
+20 un O
+21 embarazo O
+22 sin O
+23 incidencias O
+24 y O
+25 con O
+26 parto O
+27 por O
+28 vía O
+29 vaginal O
+30 , O
+31 que O
+32 acude O
+33 a O
+34 urgencias O
+35 por O
+36 dolor O
+37 abdominal O
+38 cólico O
+39 junto O
+40 con O
+41 distensión O
+42 abdominal O
+43 y O
+44 varias O
+45 deposiciones O
+46 líquidas O
+47 de O
+48 48 O
+49 horas O
+50 de O
+51 evolución O
+52 . O
+
+# global.columns = id form ner
+# text = La paciente refiere dos episodios similares en el último año , que se resolvieron espontáneamente en unas horas , sin otra sintomatología acompañante .
+# sentence_id = 52
+1 La O
+2 paciente O
+3 refiere O
+4 dos O
+5 episodios O
+6 similares O
+7 en O
+8 el O
+9 último O
+10 año O
+11 , O
+12 que O
+13 se O
+14 resolvieron O
+15 espontáneamente O
+16 en O
+17 unas O
+18 horas O
+19 , O
+20 sin O
+21 otra O
+22 sintomatología O
+23 acompañante O
+24 . O
+
+# global.columns = id form ner
+# text = En la exploración física presentaba buen estado general , con estabilidad hemodinámica , abdomen sin cicatrices , distendido y timpanizado , doloroso a la palpación en hemiabdomen derecho , sobre todo en cuadrante inferior derecho , sin signos de irritación peritoneal y sin palparse masas ni visceromegalias , peristaltismo disminuido .
+# sentence_id = 53
+1 En O
+2 la O
+3 exploración O
+4 física O
+5 presentaba O
+6 buen O
+7 estado O
+8 general O
+9 , O
+10 con O
+11 estabilidad O
+12 hemodinámica O
+13 , O
+14 abdomen O
+15 sin O
+16 cicatrices O
+17 , O
+18 distendido O
+19 y O
+20 timpanizado O
+21 , O
+22 doloroso O
+23 a O
+24 la O
+25 palpación O
+26 en O
+27 hemiabdomen O
+28 derecho O
+29 , O
+30 sobre O
+31 todo O
+32 en O
+33 cuadrante O
+34 inferior O
+35 derecho O
+36 , O
+37 sin O
+38 signos O
+39 de O
+40 irritación O
+41 peritoneal O
+42 y O
+43 sin O
+44 palparse O
+45 masas O
+46 ni O
+47 visceromegalias O
+48 , O
+49 peristaltismo O
+50 disminuido O
+51 . O
+
+# global.columns = id form ner
+# text = En la analítica solicitada presentaba discreta leucocitosis con predominio granulocítico y PCR 3,7mg / dl , siendo el resto de la analítica ( glucosa , iones , función renal , enzimas hepáticos , amilasa , sistemático de orina . . . ) normal .
+# sentence_id = 54
+# relations = 12;12;13;15;RESULT_OF|19;19;43;43;RESULT_OF|24;24;43;43;RESULT_OF|26;26;43;43;RESULT_OF|28;28;43;43;RESULT_OF|31;31;43;43;RESULT_OF|34;34;43;43;RESULT_OF|36;36;43;43;RESULT_OF
+1 En O
+2 la O
+3 analítica O
+4 solicitada O
+5 presentaba O
+6 discreta O
+7 leucocitosis O
+8 con O
+9 predominio O
+10 granulocítico O
+11 y O
+12 PCR B-PROCEDURE
+13 3,7mg B-RESULT
+14 / I-RESULT
+15 dl I-RESULT
+16 , O
+17 siendo O
+18 el O
+19 resto B-PROCEDURE
+20 de O
+21 la O
+22 analítica O
+23 ( O
+24 glucosa B-PROCEDURE
+25 , O
+26 iones B-PROCEDURE
+27 , O
+28 función B-PROCEDURE
+29 renal O
+30 , O
+31 enzimas B-PROCEDURE
+32 hepáticos O
+33 , O
+34 amilasa B-PROCEDURE
+35 , O
+36 sistemático B-PROCEDURE
+37 de O
+38 orina O
+39 . O
+40 . O
+41 . O
+42 ) O
+43 normal B-RESULT
+44 . O
+
+# global.columns = id form ner
+# text = En las RX abdominales que se le realizaron se aprecia dilatación de asas del intestino delgado ( ID ) , con niveles hidroaéreos y ausencia de gas en colon y ampolla rectal , calcificaciones uterinas sugestivas de mioma .
+# sentence_id = 55
+1 En O
+2 las O
+3 RX O
+4 abdominales O
+5 que O
+6 se O
+7 le O
+8 realizaron O
+9 se O
+10 aprecia O
+11 dilatación O
+12 de O
+13 asas O
+14 del O
+15 intestino O
+16 delgado O
+17 ( O
+18 ID O
+19 ) O
+20 , O
+21 con O
+22 niveles O
+23 hidroaéreos O
+24 y O
+25 ausencia O
+26 de O
+27 gas O
+28 en O
+29 colon O
+30 y O
+31 ampolla O
+32 rectal O
+33 , O
+34 calcificaciones O
+35 uterinas O
+36 sugestivas O
+37 de O
+38 mioma O
+39 . O
+
+# global.columns = id form ner
+# text = En la ecografía abdominal se observa abundante gas e hiperperistaltismo en ID y mínima cantidad de líquido libre entre las asas intestinales .
+# sentence_id = 56
+1 En O
+2 la O
+3 ecografía O
+4 abdominal O
+5 se O
+6 observa O
+7 abundante O
+8 gas O
+9 e O
+10 hiperperistaltismo O
+11 en O
+12 ID O
+13 y O
+14 mínima O
+15 cantidad O
+16 de O
+17 líquido O
+18 libre O
+19 entre O
+20 las O
+21 asas O
+22 intestinales O
+23 . O
+
+# global.columns = id form ner
+# text = En la TAC abdominal se evidencia una marcada dilatación de asas de ID que respeta ileon terminal , apreciándose en ileon preterminal , a nivel de FID , cambio del calibre , colon no dilatado con opacificación con el contraste oral , acumulación de líquido libre a nivel del saco de Douglas , útero miomatoso con calcificaciones grumosas .
+# sentence_id = 57
+1 En O
+2 la O
+3 TAC O
+4 abdominal O
+5 se O
+6 evidencia O
+7 una O
+8 marcada O
+9 dilatación O
+10 de O
+11 asas O
+12 de O
+13 ID O
+14 que O
+15 respeta O
+16 ileon O
+17 terminal O
+18 , O
+19 apreciándose O
+20 en O
+21 ileon O
+22 preterminal O
+23 , O
+24 a O
+25 nivel O
+26 de O
+27 FID O
+28 , O
+29 cambio O
+30 del O
+31 calibre O
+32 , O
+33 colon O
+34 no O
+35 dilatado O
+36 con O
+37 opacificación O
+38 con O
+39 el O
+40 contraste O
+41 oral O
+42 , O
+43 acumulación O
+44 de O
+45 líquido O
+46 libre O
+47 a O
+48 nivel O
+49 del O
+50 saco O
+51 de O
+52 Douglas O
+53 , O
+54 útero O
+55 miomatoso O
+56 con O
+57 calcificaciones O
+58 grumosas O
+59 . O
+
+# global.columns = id form ner
+# text = Inicialmente se aplica tratamiento conservador con sonda nasogástrica , fluidoterapia y analgesia , sin evidenciarse mejoría clínica ni radiológica en las horas siguientes , por lo que se decide intervención quirúrgica .
+# sentence_id = 58
+1 Inicialmente O
+2 se O
+3 aplica O
+4 tratamiento O
+5 conservador O
+6 con O
+7 sonda O
+8 nasogástrica O
+9 , O
+10 fluidoterapia O
+11 y O
+12 analgesia O
+13 , O
+14 sin O
+15 evidenciarse O
+16 mejoría O
+17 clínica O
+18 ni O
+19 radiológica O
+20 en O
+21 las O
+22 horas O
+23 siguientes O
+24 , O
+25 por O
+26 lo O
+27 que O
+28 se O
+29 decide O
+30 intervención O
+31 quirúrgica O
+32 . O
+
+# global.columns = id form ner
+# text = El abordaje se realizó a través de laparotomía media infraumbilical , objetivándose moderada cantidad de líquido libre seroso , dilatación de asas de ID y engrosamiento estenosante en ileon terminal , a unos 10 cm de válvula ileocecal , de aspecto tumoral , con retracción de la superficie serosa y adenopatías mesentéricas .
+# sentence_id = 59
+1 El O
+2 abordaje O
+3 se O
+4 realizó O
+5 a O
+6 través O
+7 de O
+8 laparotomía O
+9 media O
+10 infraumbilical O
+11 , O
+12 objetivándose O
+13 moderada O
+14 cantidad O
+15 de O
+16 líquido O
+17 libre O
+18 seroso O
+19 , O
+20 dilatación O
+21 de O
+22 asas O
+23 de O
+24 ID O
+25 y O
+26 engrosamiento O
+27 estenosante O
+28 en O
+29 ileon O
+30 terminal O
+31 , O
+32 a O
+33 unos O
+34 10 O
+35 cm O
+36 de O
+37 válvula O
+38 ileocecal O
+39 , O
+40 de O
+41 aspecto O
+42 tumoral O
+43 , O
+44 con O
+45 retracción O
+46 de O
+47 la O
+48 superficie O
+49 serosa O
+50 y O
+51 adenopatías O
+52 mesentéricas O
+53 . O
+
+# global.columns = id form ner
+# text = En la exploración pélvica destaca útero miomatoso .
+# sentence_id = 60
+1 En O
+2 la O
+3 exploración O
+4 pélvica O
+5 destaca O
+6 útero O
+7 miomatoso O
+8 . O
+
+# global.columns = id form ner
+# text = Se realizó resección ileocecal y anastomosis látero-lateral mecánica , así como drenaje del líquido del fondo de saco de Douglas .
+# sentence_id = 61
+1 Se O
+2 realizó O
+3 resección O
+4 ileocecal O
+5 y O
+6 anastomosis O
+7 látero-lateral O
+8 mecánica O
+9 , O
+10 así O
+11 como O
+12 drenaje O
+13 del O
+14 líquido O
+15 del O
+16 fondo O
+17 de O
+18 saco O
+19 de O
+20 Douglas O
+21 . O
+
+# global.columns = id form ner
+# text = Se remiten muestras a Anatomía Patológica para estudio histológico , informándose de que a nivel de ileon terminal y ciego se observan abundantes adherencias y fibrosis en la pared .
+# sentence_id = 62
+1 Se O
+2 remiten O
+3 muestras O
+4 a O
+5 Anatomía O
+6 Patológica O
+7 para O
+8 estudio O
+9 histológico O
+10 , O
+11 informándose O
+12 de O
+13 que O
+14 a O
+15 nivel O
+16 de O
+17 ileon O
+18 terminal O
+19 y O
+20 ciego O
+21 se O
+22 observan O
+23 abundantes O
+24 adherencias O
+25 y O
+26 fibrosis O
+27 en O
+28 la O
+29 pared O
+30 . O
+
+# global.columns = id form ner
+# text = En profundidad se objetivan islotes y nidos de epitelio glandular de tipo endometrioide así como estroma endometrial .
+# sentence_id = 63
+1 En O
+2 profundidad O
+3 se O
+4 objetivan O
+5 islotes O
+6 y O
+7 nidos O
+8 de O
+9 epitelio O
+10 glandular O
+11 de O
+12 tipo O
+13 endometrioide O
+14 así O
+15 como O
+16 estroma O
+17 endometrial O
+18 . O
+
+# global.columns = id form ner
+# text = Focalmente se observa un aumento del infiltrado inflamatorio y fibrosis .
+# sentence_id = 64
+1 Focalmente O
+2 se O
+3 observa O
+4 un O
+5 aumento O
+6 del O
+7 infiltrado O
+8 inflamatorio O
+9 y O
+10 fibrosis O
+11 . O
+
+# global.columns = id form ner
+# text = La pared intestinal muestra hipertrofia de las capas musculares , ganglios linfáticos sin lesión histológica evidente .
+# sentence_id = 65
+1 La O
+2 pared O
+3 intestinal O
+4 muestra O
+5 hipertrofia O
+6 de O
+7 las O
+8 capas O
+9 musculares O
+10 , O
+11 ganglios O
+12 linfáticos O
+13 sin O
+14 lesión O
+15 histológica O
+16 evidente O
+17 . O
+
+# global.columns = id form ner
+# text = Con el diagnóstico de endometriosis ileocecal , y tras un curso postoperatorio favorable y sin complicaciones , se remite a la paciente a consultas de Ginecología y Obstetricia para valorar inicio de tratamiento con análogos de la hormona liberadora de gonadotropinas y seguimiento evolutivo .
+# sentence_id = 66
+1 Con O
+2 el O
+3 diagnóstico O
+4 de O
+5 endometriosis O
+6 ileocecal O
+7 , O
+8 y O
+9 tras O
+10 un O
+11 curso O
+12 postoperatorio O
+13 favorable O
+14 y O
+15 sin O
+16 complicaciones O
+17 , O
+18 se O
+19 remite O
+20 a O
+21 la O
+22 paciente O
+23 a O
+24 consultas O
+25 de O
+26 Ginecología O
+27 y O
+28 Obstetricia O
+29 para O
+30 valorar O
+31 inicio O
+32 de O
+33 tratamiento O
+34 con O
+35 análogos O
+36 de O
+37 la O
+38 hormona O
+39 liberadora O
+40 de O
+41 gonadotropinas O
+42 y O
+43 seguimiento O
+44 evolutivo O
+45 . O
+
+# global.columns = id form ner
+# text = Varón de 55 años derivado a nuestro hospital en noviembre de 2005 por odinofagia y sangrado oral .
+# sentence_id = 67
+1 Varón O
+2 de O
+3 55 O
+4 años O
+5 derivado O
+6 a O
+7 nuestro O
+8 hospital O
+9 en O
+10 noviembre O
+11 de O
+12 2005 O
+13 por O
+14 odinofagia O
+15 y O
+16 sangrado O
+17 oral O
+18 . O
+
+# global.columns = id form ner
+# text = En la exploración física se objetivó una úlcera de aspecto necrótico de 4 - 5 cm de diámetro en pilar amigdalino y amígdala izquierda que se biopsió , con resultado de carcinoma epidermoide .
+# sentence_id = 68
+# relations = 8;8;13;18;RESULT_OF
+1 En O
+2 la O
+3 exploración O
+4 física O
+5 se O
+6 objetivó O
+7 una O
+8 úlcera B-PROCEDURE
+9 de O
+10 aspecto O
+11 necrótico O
+12 de O
+13 4 B-RESULT
+14 - I-RESULT
+15 5 I-RESULT
+16 cm I-RESULT
+17 de I-RESULT
+18 diámetro I-RESULT
+19 en O
+20 pilar O
+21 amigdalino O
+22 y O
+23 amígdala O
+24 izquierda O
+25 que O
+26 se O
+27 biopsió O
+28 , O
+29 con O
+30 resultado O
+31 de O
+32 carcinoma O
+33 epidermoide O
+34 . O
+
+# global.columns = id form ner
+# text = En el TAC se observaron adenopatías laterocervicales ipsilaterales tanto submaxilares como yugulodigástricas .
+# sentence_id = 69
+1 En O
+2 el O
+3 TAC O
+4 se O
+5 observaron O
+6 adenopatías O
+7 laterocervicales O
+8 ipsilaterales O
+9 tanto O
+10 submaxilares O
+11 como O
+12 yugulodigástricas O
+13 . O
+
+# global.columns = id form ner
+# text = La analítica sanguínea y el resto de exploraciones fueron normales .
+# sentence_id = 70
+# relations = 2;2;10;10;RESULT_OF|6;6;10;10;RESULT_OF
+1 La O
+2 analítica B-PROCEDURE
+3 sanguínea O
+4 y O
+5 el O
+6 resto B-PROCEDURE
+7 de O
+8 exploraciones O
+9 fueron O
+10 normales B-RESULT
+11 . O
+
+# global.columns = id form ner
+# text = Así se estableció el diagnóstico de carcinoma epidermoide localmente avanzado de orofaringe ( T3 - N2b-M0 , Estadio IVa ) e inició tratamiento quimiorradioterápico .
+# sentence_id = 71
+1 Así O
+2 se O
+3 estableció O
+4 el O
+5 diagnóstico O
+6 de O
+7 carcinoma O
+8 epidermoide O
+9 localmente O
+10 avanzado O
+11 de O
+12 orofaringe O
+13 ( O
+14 T3 O
+15 - O
+16 N2b-M0 O
+17 , O
+18 Estadio O
+19 IVa O
+20 ) O
+21 e O
+22 inició O
+23 tratamiento O
+24 quimiorradioterápico O
+25 . O
+
+# global.columns = id form ner
+# text = El tratamiento consistió en radioterapia hiperfraccionada ( 120 cGy por fracción , 2 fracciones / día , hasta 7.680 cGy ) , y cisplatino , 20 mg / m2 / día en perfusión continua durante 120 horas , entre los días 1 a 5 y 21 a 25 de tratamiento .
+# sentence_id = 72
+1 El O
+2 tratamiento O
+3 consistió O
+4 en O
+5 radioterapia O
+6 hiperfraccionada O
+7 ( O
+8 120 O
+9 cGy O
+10 por O
+11 fracción O
+12 , O
+13 2 O
+14 fracciones O
+15 / O
+16 día O
+17 , O
+18 hasta O
+19 7.680 O
+20 cGy O
+21 ) O
+22 , O
+23 y O
+24 cisplatino O
+25 , O
+26 20 O
+27 mg O
+28 / O
+29 m2 O
+30 / O
+31 día O
+32 en O
+33 perfusión O
+34 continua O
+35 durante O
+36 120 O
+37 horas O
+38 , O
+39 entre O
+40 los O
+41 días O
+42 1 O
+43 a O
+44 5 O
+45 y O
+46 21 O
+47 a O
+48 25 O
+49 de O
+50 tratamiento O
+51 . O
+
+# global.columns = id form ner
+# text = Al final del tratamiento tanto la exploración física como el TAC mostraban respuesta completa .
+# sentence_id = 73
+1 Al O
+2 final O
+3 del O
+4 tratamiento O
+5 tanto O
+6 la O
+7 exploración O
+8 física O
+9 como O
+10 el O
+11 TAC O
+12 mostraban O
+13 respuesta O
+14 completa O
+15 . O
+
+# global.columns = id form ner
+# text = El paciente se mantuvo asintomático hasta marzo de 2007 cuando acudió a nuestro hospital por un cuadro de astenia , inestabilidad y dolor abdominal seguido de hematemesis masiva con afectación clínica y hematológica ( Hb 7,1g , hematocrito 21,5% ) .
+# sentence_id = 74
+# relations = 35;35;36;36;RESULT_OF|38;38;39;39;RESULT_OF
+1 El O
+2 paciente O
+3 se O
+4 mantuvo O
+5 asintomático O
+6 hasta O
+7 marzo O
+8 de O
+9 2007 O
+10 cuando O
+11 acudió O
+12 a O
+13 nuestro O
+14 hospital O
+15 por O
+16 un O
+17 cuadro O
+18 de O
+19 astenia O
+20 , O
+21 inestabilidad O
+22 y O
+23 dolor O
+24 abdominal O
+25 seguido O
+26 de O
+27 hematemesis O
+28 masiva O
+29 con O
+30 afectación O
+31 clínica O
+32 y O
+33 hematológica O
+34 ( O
+35 Hb B-PROCEDURE
+36 7,1g B-RESULT
+37 , O
+38 hematocrito B-PROCEDURE
+39 21,5% B-RESULT
+40 ) O
+41 . O
+
+# global.columns = id form ner
+# text = La gastroscopia mostraba una tumoración ulcerada en el esófago distal , sobre cardias extendiéndose a curvatura mayor y cara anterior y posterior de estómago .
+# sentence_id = 75
+1 La O
+2 gastroscopia O
+3 mostraba O
+4 una O
+5 tumoración O
+6 ulcerada O
+7 en O
+8 el O
+9 esófago O
+10 distal O
+11 , O
+12 sobre O
+13 cardias O
+14 extendiéndose O
+15 a O
+16 curvatura O
+17 mayor O
+18 y O
+19 cara O
+20 anterior O
+21 y O
+22 posterior O
+23 de O
+24 estómago O
+25 . O
+
+# global.columns = id form ner
+# text = El resultado de la biopsia fue de carcinoma epidermoide compatible con metástasis de carcinoma de laringe .
+# sentence_id = 76
+1 El O
+2 resultado O
+3 de O
+4 la O
+5 biopsia O
+6 fue O
+7 de O
+8 carcinoma O
+9 epidermoide O
+10 compatible O
+11 con O
+12 metástasis O
+13 de O
+14 carcinoma O
+15 de O
+16 laringe O
+17 . O
+
+# global.columns = id form ner
+# text = A lo largo del ingresó fueron necesarias varias transfusiones y se inició tratamiento con somatostatina pese a lo que el sangrado se mantuvo activo .
+# sentence_id = 77
+1 A O
+2 lo O
+3 largo O
+4 del O
+5 ingresó O
+6 fueron O
+7 necesarias O
+8 varias O
+9 transfusiones O
+10 y O
+11 se O
+12 inició O
+13 tratamiento O
+14 con O
+15 somatostatina O
+16 pese O
+17 a O
+18 lo O
+19 que O
+20 el O
+21 sangrado O
+22 se O
+23 mantuvo O
+24 activo O
+25 . O
+
+# global.columns = id form ner
+# text = Se inició entonces tratamiento radioterápico de carácter paliativo con intención hemostática administrándose 20Gy en 5 fracciones de 400cGy con buena tolerancia digestiva y consiguiendo la remisión de los episodios de sangrado .
+# sentence_id = 78
+1 Se O
+2 inició O
+3 entonces O
+4 tratamiento O
+5 radioterápico O
+6 de O
+7 carácter O
+8 paliativo O
+9 con O
+10 intención O
+11 hemostática O
+12 administrándose O
+13 20Gy O
+14 en O
+15 5 O
+16 fracciones O
+17 de O
+18 400cGy O
+19 con O
+20 buena O
+21 tolerancia O
+22 digestiva O
+23 y O
+24 consiguiendo O
+25 la O
+26 remisión O
+27 de O
+28 los O
+29 episodios O
+30 de O
+31 sangrado O
+32 . O
+
+# global.columns = id form ner
+# text = El paciente fue dado de alta quedando asintomático durante otros 5 meses tras los que falleció por diseminación metastásica .
+# sentence_id = 79
+1 El O
+2 paciente O
+3 fue O
+4 dado O
+5 de O
+6 alta O
+7 quedando O
+8 asintomático O
+9 durante O
+10 otros O
+11 5 O
+12 meses O
+13 tras O
+14 los O
+15 que O
+16 falleció O
+17 por O
+18 diseminación O
+19 metastásica O
+20 . O
+
+# global.columns = id form ner
+# text = Lactante mujer de 12 meses de edad que acudía a consulta por llanto persistente , tos escasa y dificultad respiratoria de unas 10 horas de evolución .
+# sentence_id = 80
+1 Lactante O
+2 mujer O
+3 de O
+4 12 O
+5 meses O
+6 de O
+7 edad O
+8 que O
+9 acudía O
+10 a O
+11 consulta O
+12 por O
+13 llanto O
+14 persistente O
+15 , O
+16 tos O
+17 escasa O
+18 y O
+19 dificultad O
+20 respiratoria O
+21 de O
+22 unas O
+23 10 O
+24 horas O
+25 de O
+26 evolución O
+27 . O
+
+# global.columns = id form ner
+# text = Asociaba dos vómitos , rechazo parcial de la alimentación y rinorrea .
+# sentence_id = 81
+1 Asociaba O
+2 dos O
+3 vómitos O
+4 , O
+5 rechazo O
+6 parcial O
+7 de O
+8 la O
+9 alimentación O
+10 y O
+11 rinorrea O
+12 . O
+
+# global.columns = id form ner
+# text = Entre sus antecedentes personales destacaban tres episodios previos de broncoespasmo .
+# sentence_id = 82
+1 Entre O
+2 sus O
+3 antecedentes O
+4 personales O
+5 destacaban O
+6 tres O
+7 episodios O
+8 previos O
+9 de O
+10 broncoespasmo O
+11 . O
+
+# global.columns = id form ner
+# text = Como antecedente familiar a destacar , la madre padecía asma .
+# sentence_id = 83
+1 Como O
+2 antecedente O
+3 familiar O
+4 a O
+5 destacar O
+6 , O
+7 la O
+8 madre O
+9 padecía O
+10 asma O
+11 . O
+
+# global.columns = id form ner
+# text = En la exploración clínica se apreciaba : peso de 8,1 kg ( P3 ) , talla de 72 cm ( P25 ) , temperatura de 37,4º C , presión arterial de 101 / 85 mm Hg , frecuencia cardíaca de 148 latidos por minuto , frecuencia respiratoria de 68 respiraciones por minuto y saturación de oxígeno de 90% .
+# sentence_id = 84
+# relations = 8;8;10;11;RESULT_OF|8;8;13;13;RESULT_OF|16;16;18;19;RESULT_OF|16;16;21;21;RESULT_OF|24;24;26;27;RESULT_OF|29;29;32;36;RESULT_OF|38;38;41;44;RESULT_OF|46;46;49;52;RESULT_OF|54;54;58;58;RESULT_OF
+1 En O
+2 la O
+3 exploración O
+4 clínica O
+5 se O
+6 apreciaba O
+7 : O
+8 peso B-PROCEDURE
+9 de O
+10 8,1 B-RESULT
+11 kg I-RESULT
+12 ( O
+13 P3 B-RESULT
+14 ) O
+15 , O
+16 talla B-PROCEDURE
+17 de O
+18 72 B-RESULT
+19 cm I-RESULT
+20 ( O
+21 P25 B-RESULT
+22 ) O
+23 , O
+24 temperatura B-PROCEDURE
+25 de O
+26 37,4º B-RESULT
+27 C I-RESULT
+28 , O
+29 presión B-PROCEDURE
+30 arterial O
+31 de O
+32 101 B-RESULT
+33 / I-RESULT
+34 85 I-RESULT
+35 mm I-RESULT
+36 Hg I-RESULT
+37 , O
+38 frecuencia B-PROCEDURE
+39 cardíaca O
+40 de O
+41 148 B-RESULT
+42 latidos I-RESULT
+43 por I-RESULT
+44 minuto I-RESULT
+45 , O
+46 frecuencia B-PROCEDURE
+47 respiratoria O
+48 de O
+49 68 B-RESULT
+50 respiraciones I-RESULT
+51 por I-RESULT
+52 minuto I-RESULT
+53 y O
+54 saturación B-PROCEDURE
+55 de O
+56 oxígeno O
+57 de O
+58 90% B-RESULT
+59 . O
+
+# global.columns = id form ner
+# text = Tenía un buen aspecto general , estaba irritable y no se calmaba en brazos de la madre .
+# sentence_id = 85
+1 Tenía O
+2 un O
+3 buen O
+4 aspecto O
+5 general O
+6 , O
+7 estaba O
+8 irritable O
+9 y O
+10 no O
+11 se O
+12 calmaba O
+13 en O
+14 brazos O
+15 de O
+16 la O
+17 madre O
+18 . O
+
+# global.columns = id form ner
+# text = Presentaba una respiración entrecortada , con tiraje subcostal e intercostal .
+# sentence_id = 86
+1 Presentaba O
+2 una O
+3 respiración O
+4 entrecortada O
+5 , O
+6 con O
+7 tiraje O
+8 subcostal O
+9 e O
+10 intercostal O
+11 . O
+
+# global.columns = id form ner
+# text = En la auscultación respiratoria se objetivaba una buena entrada de aire con sibilancias espiratorias bilaterales y espiración alargada .
+# sentence_id = 87
+1 En O
+2 la O
+3 auscultación O
+4 respiratoria O
+5 se O
+6 objetivaba O
+7 una O
+8 buena O
+9 entrada O
+10 de O
+11 aire O
+12 con O
+13 sibilancias O
+14 espiratorias O
+15 bilaterales O
+16 y O
+17 espiración O
+18 alargada O
+19 . O
+
+# global.columns = id form ner
+# text = La auscultación cardíaca era normal .
+# sentence_id = 88
+# relations = 2;2;5;5;RESULT_OF
+1 La O
+2 auscultación B-PROCEDURE
+3 cardíaca O
+4 era O
+5 normal B-RESULT
+6 . O
+
+# global.columns = id form ner
+# text = La orofaringe estaba hiperémica , con abundante moco en cavum .
+# sentence_id = 89
+1 La O
+2 orofaringe O
+3 estaba O
+4 hiperémica O
+5 , O
+6 con O
+7 abundante O
+8 moco O
+9 en O
+10 cavum O
+11 . O
+
+# global.columns = id form ner
+# text = En la otoscopia se observaba una hiperemia timpánica bilateral con reflejo luminoso conservado .
+# sentence_id = 90
+1 En O
+2 la O
+3 otoscopia O
+4 se O
+5 observaba O
+6 una O
+7 hiperemia O
+8 timpánica O
+9 bilateral O
+10 con O
+11 reflejo O
+12 luminoso O
+13 conservado O
+14 . O
+
+# global.columns = id form ner
+# text = El resto de la exploración era normal .
+# sentence_id = 91
+# relations = 2;2;7;7;RESULT_OF
+1 El O
+2 resto B-PROCEDURE
+3 de O
+4 la O
+5 exploración O
+6 era O
+7 normal B-RESULT
+8 . O
+
+# global.columns = id form ner
+# text = Se le realizaron radiografías de tórax anteroposterior y lateral en las que se objetivó atrapamiento aéreo con presencia de aire anterocardíaco , signo del diafragma continuo y un mínimo enfisema subcutáneo en cuello .
+# sentence_id = 92
+1 Se O
+2 le O
+3 realizaron O
+4 radiografías O
+5 de O
+6 tórax O
+7 anteroposterior O
+8 y O
+9 lateral O
+10 en O
+11 las O
+12 que O
+13 se O
+14 objetivó O
+15 atrapamiento O
+16 aéreo O
+17 con O
+18 presencia O
+19 de O
+20 aire O
+21 anterocardíaco O
+22 , O
+23 signo O
+24 del O
+25 diafragma O
+26 continuo O
+27 y O
+28 un O
+29 mínimo O
+30 enfisema O
+31 subcutáneo O
+32 en O
+33 cuello O
+34 . O
+
+# global.columns = id form ner
+# text = Se llegó con ello al diagnóstico de neumomediastino asociado a broncoespasmo y se ingresó en el hospital .
+# sentence_id = 93
+1 Se O
+2 llegó O
+3 con O
+4 ello O
+5 al O
+6 diagnóstico O
+7 de O
+8 neumomediastino O
+9 asociado O
+10 a O
+11 broncoespasmo O
+12 y O
+13 se O
+14 ingresó O
+15 en O
+16 el O
+17 hospital O
+18 . O
+
+# global.columns = id form ner
+# text = Se le administró tratamiento con oxígeno mediante gafas nasales según necesidades , salbutamol inhalado y prednisolona por vía oral .
+# sentence_id = 94
+1 Se O
+2 le O
+3 administró O
+4 tratamiento O
+5 con O
+6 oxígeno O
+7 mediante O
+8 gafas O
+9 nasales O
+10 según O
+11 necesidades O
+12 , O
+13 salbutamol O
+14 inhalado O
+15 y O
+16 prednisolona O
+17 por O
+18 vía O
+19 oral O
+20 . O
+
+# global.columns = id form ner
+# text = La evolución clínica fue buena , al tercer día no había signos ni síntomas de dificultad respiratoria , y en la radiografía de tórax de control se apreciaba una disminución del tamaño del aire en mediastino , por lo que fue dada de alta .
+# sentence_id = 95
+1 La O
+2 evolución O
+3 clínica O
+4 fue O
+5 buena O
+6 , O
+7 al O
+8 tercer O
+9 día O
+10 no O
+11 había O
+12 signos O
+13 ni O
+14 síntomas O
+15 de O
+16 dificultad O
+17 respiratoria O
+18 , O
+19 y O
+20 en O
+21 la O
+22 radiografía O
+23 de O
+24 tórax O
+25 de O
+26 control O
+27 se O
+28 apreciaba O
+29 una O
+30 disminución O
+31 del O
+32 tamaño O
+33 del O
+34 aire O
+35 en O
+36 mediastino O
+37 , O
+38 por O
+39 lo O
+40 que O
+41 fue O
+42 dada O
+43 de O
+44 alta O
+45 . O
+
+# global.columns = id form ner
+# text = La prueba de cloruros en sudor fue normal .
+# sentence_id = 96
+# relations = 2;2;8;8;RESULT_OF
+1 La O
+2 prueba B-PROCEDURE
+3 de O
+4 cloruros O
+5 en O
+6 sudor O
+7 fue O
+8 normal B-RESULT
+9 . O
+
+# global.columns = id form ner
+# text = Presentamos el caso de una paciente de 12 años nacida en España de madre nicaragüense que acude al centro de salud por aparición de lesiones cutáneas en los miembros inferiores de 36 horas de evolución .
+# sentence_id = 97
+1 Presentamos O
+2 el O
+3 caso O
+4 de O
+5 una O
+6 paciente O
+7 de O
+8 12 O
+9 años O
+10 nacida O
+11 en O
+12 España O
+13 de O
+14 madre O
+15 nicaragüense O
+16 que O
+17 acude O
+18 al O
+19 centro O
+20 de O
+21 salud O
+22 por O
+23 aparición O
+24 de O
+25 lesiones O
+26 cutáneas O
+27 en O
+28 los O
+29 miembros O
+30 inferiores O
+31 de O
+32 36 O
+33 horas O
+34 de O
+35 evolución O
+36 . O
+
+# global.columns = id form ner
+# text = Inicialmente se objetivan placas lineales pigmentadas no sobreelevadas de distribución lineal desde la raíz de ambos miembros inferiores hasta los gemelos y que posteriormente habían adoptado un tono parduzco .
+# sentence_id = 98
+1 Inicialmente O
+2 se O
+3 objetivan O
+4 placas O
+5 lineales O
+6 pigmentadas O
+7 no O
+8 sobreelevadas O
+9 de O
+10 distribución O
+11 lineal O
+12 desde O
+13 la O
+14 raíz O
+15 de O
+16 ambos O
+17 miembros O
+18 inferiores O
+19 hasta O
+20 los O
+21 gemelos O
+22 y O
+23 que O
+24 posteriormente O
+25 habían O
+26 adoptado O
+27 un O
+28 tono O
+29 parduzco O
+30 . O
+
+# global.columns = id form ner
+# text = En ningún momento presenta prurito , dolor ni malestar general .
+# sentence_id = 99
+1 En O
+2 ningún O
+3 momento O
+4 presenta O
+5 prurito O
+6 , O
+7 dolor O
+8 ni O
+9 malestar O
+10 general O
+11 . O
+
+# global.columns = id form ner
+# text = Con la sospecha clínica de una quemadura , se solicita valoración por Dermatología , cuya sospecha diagnóstica principal es de reacción fototóxica .
+# sentence_id = 100
+1 Con O
+2 la O
+3 sospecha O
+4 clínica O
+5 de O
+6 una O
+7 quemadura O
+8 , O
+9 se O
+10 solicita O
+11 valoración O
+12 por O
+13 Dermatología O
+14 , O
+15 cuya O
+16 sospecha O
+17 diagnóstica O
+18 principal O
+19 es O
+20 de O
+21 reacción O
+22 fototóxica O
+23 . O
+
+# global.columns = id form ner
+# text = Tras reinterrogar a la paciente , la misma refirió haberse derramado una solución alcohólica con extracto de ruda , utilizada en su ámbito familiar para combatir los síntomas catarrales , y posteriormente se expuso al sol de forma prolongada .
+# sentence_id = 101
+1 Tras O
+2 reinterrogar O
+3 a O
+4 la O
+5 paciente O
+6 , O
+7 la O
+8 misma O
+9 refirió O
+10 haberse O
+11 derramado O
+12 una O
+13 solución O
+14 alcohólica O
+15 con O
+16 extracto O
+17 de O
+18 ruda O
+19 , O
+20 utilizada O
+21 en O
+22 su O
+23 ámbito O
+24 familiar O
+25 para O
+26 combatir O
+27 los O
+28 síntomas O
+29 catarrales O
+30 , O
+31 y O
+32 posteriormente O
+33 se O
+34 expuso O
+35 al O
+36 sol O
+37 de O
+38 forma O
+39 prolongada O
+40 . O
+
+# global.columns = id form ner
+# text = Se informa de la benignidad del cuadro y la necesidad de realizar fotoprotección adecuada .
+# sentence_id = 102
+1 Se O
+2 informa O
+3 de O
+4 la O
+5 benignidad O
+6 del O
+7 cuadro O
+8 y O
+9 la O
+10 necesidad O
+11 de O
+12 realizar O
+13 fotoprotección O
+14 adecuada O
+15 . O
+
+# global.columns = id form ner
+# text = Niña de un mes y medio de vida que presenta fiebre ( 38 ° C ) de 48 horas de evolución e irritabilidad , mucosidad nasal asociada ; a la exploración presentaba exantema eritematoso de pequeños elementos y el resto de la exploración normal .
+# sentence_id = 103
+# relations = 11;11;13;15;RESULT_OF|40;40;44;44;RESULT_OF
+1 Niña O
+2 de O
+3 un O
+4 mes O
+5 y O
+6 medio O
+7 de O
+8 vida O
+9 que O
+10 presenta O
+11 fiebre B-PROCEDURE
+12 ( O
+13 38 B-RESULT
+14 ° I-RESULT
+15 C I-RESULT
+16 ) O
+17 de O
+18 48 O
+19 horas O
+20 de O
+21 evolución O
+22 e O
+23 irritabilidad O
+24 , O
+25 mucosidad O
+26 nasal O
+27 asociada O
+28 ; O
+29 a O
+30 la O
+31 exploración O
+32 presentaba O
+33 exantema O
+34 eritematoso O
+35 de O
+36 pequeños O
+37 elementos O
+38 y O
+39 el O
+40 resto B-PROCEDURE
+41 de O
+42 la O
+43 exploración O
+44 normal B-RESULT
+45 . O
+
+# global.columns = id form ner
+# text = En una analítica inicial : leucocitos 6310 / µl ( segmentados 67% , cayados 6% , linfocitos 19% , monocitos 8% ) , hemoglobina ( Hb ) 10,9 g / dl , hematocrito ( Hto ) 29,6% , plaquetas 492 000 / µl , proteína C reactiva ( PCR ) 8,9 mg / l .
+# sentence_id = 104
+# relations = 6;6;7;9;RESULT_OF|11;11;12;12;RESULT_OF|14;14;15;15;RESULT_OF|17;17;18;18;RESULT_OF|20;20;21;21;RESULT_OF|24;24;28;31;RESULT_OF|26;26;28;31;RESULT_OF|33;33;37;37;RESULT_OF|35;35;37;37;RESULT_OF|39;39;40;43;RESULT_OF|45;45;51;54;RESULT_OF|49;49;51;54;RESULT_OF
+1 En O
+2 una O
+3 analítica O
+4 inicial O
+5 : O
+6 leucocitos B-PROCEDURE
+7 6310 B-RESULT
+8 / I-RESULT
+9 µl I-RESULT
+10 ( O
+11 segmentados B-PROCEDURE
+12 67% B-RESULT
+13 , O
+14 cayados B-PROCEDURE
+15 6% B-RESULT
+16 , O
+17 linfocitos B-PROCEDURE
+18 19% B-RESULT
+19 , O
+20 monocitos B-PROCEDURE
+21 8% B-RESULT
+22 ) O
+23 , O
+24 hemoglobina B-PROCEDURE
+25 ( O
+26 Hb B-PROCEDURE
+27 ) O
+28 10,9 B-RESULT
+29 g I-RESULT
+30 / I-RESULT
+31 dl I-RESULT
+32 , O
+33 hematocrito B-PROCEDURE
+34 ( O
+35 Hto B-PROCEDURE
+36 ) O
+37 29,6% B-RESULT
+38 , O
+39 plaquetas B-PROCEDURE
+40 492 B-RESULT
+41 000 I-RESULT
+42 / I-RESULT
+43 µl I-RESULT
+44 , O
+45 proteína B-PROCEDURE
+46 C O
+47 reactiva O
+48 ( O
+49 PCR B-PROCEDURE
+50 ) O
+51 8,9 B-RESULT
+52 mg I-RESULT
+53 / I-RESULT
+54 l I-RESULT
+55 . O
+
+# global.columns = id form ner
+# text = Se realiza punción lumbar : glucosa 51,3 mg / dl , proteínas 133,9 mg / dl ( líquido hemorrágico ) .
+# sentence_id = 105
+# relations = 6;6;7;10;RESULT_OF|12;12;13;16;RESULT_OF
+1 Se O
+2 realiza O
+3 punción O
+4 lumbar O
+5 : O
+6 glucosa B-PROCEDURE
+7 51,3 B-RESULT
+8 mg I-RESULT
+9 / I-RESULT
+10 dl I-RESULT
+11 , O
+12 proteínas B-PROCEDURE
+13 133,9 B-RESULT
+14 mg I-RESULT
+15 / I-RESULT
+16 dl I-RESULT
+17 ( O
+18 líquido O
+19 hemorrágico O
+20 ) O
+21 . O
+
+# global.columns = id form ner
+# text = Dada la sospecha de infección bacteriana grave , se ingresa para tratamiento antibiótico intravenoso con cefotaxima y ampicilina ( 200 mg / kg / día ) , agregando en las siguientes 24 horas aciclovir ( 60 mg / kg / día ) para cubrir el virus herpes simple .
+# sentence_id = 106
+1 Dada O
+2 la O
+3 sospecha O
+4 de O
+5 infección O
+6 bacteriana O
+7 grave O
+8 , O
+9 se O
+10 ingresa O
+11 para O
+12 tratamiento O
+13 antibiótico O
+14 intravenoso O
+15 con O
+16 cefotaxima O
+17 y O
+18 ampicilina O
+19 ( O
+20 200 O
+21 mg O
+22 / O
+23 kg O
+24 / O
+25 día O
+26 ) O
+27 , O
+28 agregando O
+29 en O
+30 las O
+31 siguientes O
+32 24 O
+33 horas O
+34 aciclovir O
+35 ( O
+36 60 O
+37 mg O
+38 / O
+39 kg O
+40 / O
+41 día O
+42 ) O
+43 para O
+44 cubrir O
+45 el O
+46 virus O
+47 herpes O
+48 simple O
+49 . O
+
+# global.columns = id form ner
+# text = Febril a las 48 horas .
+# sentence_id = 107
+1 Febril O
+2 a O
+3 las O
+4 48 O
+5 horas O
+6 . O
+
+# global.columns = id form ner
+# text = Al cuarto día presenta irritabilidad , mal color y estado general , con persistencia de exantema evanescente , y dificultad respiratoria ; se realiza analítica de control con hallazgo de : leucocitos 2670 / µl ( segmentados 31% , cayados 3% , linfocitos 47% , linfocitos atípicos 5% , monocitos 11% ) , reticulocitos 0,66% , Hb 8,0 g / dl , Hto 25,3% , plaquetas 131 000 / µl .
+# sentence_id = 108
+# relations = 32;32;33;35;RESULT_OF|37;37;38;38;RESULT_OF|40;40;41;41;RESULT_OF|43;43;44;44;RESULT_OF|46;46;48;48;RESULT_OF|50;50;51;51;RESULT_OF|54;54;55;55;RESULT_OF|57;57;58;61;RESULT_OF|63;63;64;64;RESULT_OF|66;66;67;70;RESULT_OF
+1 Al O
+2 cuarto O
+3 día O
+4 presenta O
+5 irritabilidad O
+6 , O
+7 mal O
+8 color O
+9 y O
+10 estado O
+11 general O
+12 , O
+13 con O
+14 persistencia O
+15 de O
+16 exantema O
+17 evanescente O
+18 , O
+19 y O
+20 dificultad O
+21 respiratoria O
+22 ; O
+23 se O
+24 realiza O
+25 analítica O
+26 de O
+27 control O
+28 con O
+29 hallazgo O
+30 de O
+31 : O
+32 leucocitos B-PROCEDURE
+33 2670 B-RESULT
+34 / I-RESULT
+35 µl I-RESULT
+36 ( O
+37 segmentados B-PROCEDURE
+38 31% B-RESULT
+39 , O
+40 cayados B-PROCEDURE
+41 3% B-RESULT
+42 , O
+43 linfocitos B-PROCEDURE
+44 47% B-RESULT
+45 , O
+46 linfocitos B-PROCEDURE
+47 atípicos O
+48 5% B-RESULT
+49 , O
+50 monocitos B-PROCEDURE
+51 11% B-RESULT
+52 ) O
+53 , O
+54 reticulocitos B-PROCEDURE
+55 0,66% B-RESULT
+56 , O
+57 Hb B-PROCEDURE
+58 8,0 B-RESULT
+59 g I-RESULT
+60 / I-RESULT
+61 dl I-RESULT
+62 , O
+63 Hto B-PROCEDURE
+64 25,3% B-RESULT
+65 , O
+66 plaquetas B-PROCEDURE
+67 131 B-RESULT
+68 000 I-RESULT
+69 / I-RESULT
+70 µl I-RESULT
+71 . O
+
+# global.columns = id form ner
+# text = Gasometría capilar : pH 7,32 , PCO2 43,3 y HCO3 21,8 mmol / l .
+# sentence_id = 109
+# relations = 4;4;5;5;RESULT_OF|7;7;8;8;RESULT_OF|10;10;11;14;RESULT_OF
+1 Gasometría O
+2 capilar O
+3 : O
+4 pH B-PROCEDURE
+5 7,32 B-RESULT
+6 , O
+7 PCO2 B-PROCEDURE
+8 43,3 B-RESULT
+9 y O
+10 HCO3 B-PROCEDURE
+11 21,8 B-RESULT
+12 mmol I-RESULT
+13 / I-RESULT
+14 l I-RESULT
+15 . O
+
+# global.columns = id form ner
+# text = Radiografía de tórax : infiltrados alveolointersticiales bilaterales , más llamativos en el lado izquierdo , sugestivos de edema agudo de pulmón .
+# sentence_id = 110
+1 Radiografía O
+2 de O
+3 tórax O
+4 : O
+5 infiltrados O
+6 alveolointersticiales O
+7 bilaterales O
+8 , O
+9 más O
+10 llamativos O
+11 en O
+12 el O
+13 lado O
+14 izquierdo O
+15 , O
+16 sugestivos O
+17 de O
+18 edema O
+19 agudo O
+20 de O
+21 pulmón O
+22 . O
+
+# global.columns = id form ner
+# text = Ante el hallazgo de pancitopenia , se extraen muestras para serología de parvovirus y enterovirus , así como de gripe A .
+# sentence_id = 111
+1 Ante O
+2 el O
+3 hallazgo O
+4 de O
+5 pancitopenia O
+6 , O
+7 se O
+8 extraen O
+9 muestras O
+10 para O
+11 serología O
+12 de O
+13 parvovirus O
+14 y O
+15 enterovirus O
+16 , O
+17 así O
+18 como O
+19 de O
+20 gripe O
+21 A O
+22 . O
+
+# global.columns = id form ner
+# text = Se inicia oxigenoterapia de alto flujo y se traslada a la unidad de cuidados intensivos pediátricos de un hospital terciario , donde permaneció cinco días .
+# sentence_id = 112
+1 Se O
+2 inicia O
+3 oxigenoterapia O
+4 de O
+5 alto O
+6 flujo O
+7 y O
+8 se O
+9 traslada O
+10 a O
+11 la O
+12 unidad O
+13 de O
+14 cuidados O
+15 intensivos O
+16 pediátricos O
+17 de O
+18 un O
+19 hospital O
+20 terciario O
+21 , O
+22 donde O
+23 permaneció O
+24 cinco O
+25 días O
+26 . O
+
+# global.columns = id form ner
+# text = Los anticuerpos inmunoglobluina M ( IgM ) para parvovirus B19 son positivos e IgG negativos , con lo cual se hace diagnóstico de infección por parvovirus B19 , insuficiencia respiratoria y pancitopenia asociada .
+# sentence_id = 113
+# relations = 2;2;12;12;RESULT_OF|6;6;12;12;RESULT_OF|14;14;15;15;RESULT_OF
+1 Los O
+2 anticuerpos B-PROCEDURE
+3 inmunoglobluina O
+4 M O
+5 ( O
+6 IgM B-PROCEDURE
+7 ) O
+8 para O
+9 parvovirus O
+10 B19 O
+11 son O
+12 positivos B-RESULT
+13 e O
+14 IgG B-PROCEDURE
+15 negativos B-RESULT
+16 , O
+17 con O
+18 lo O
+19 cual O
+20 se O
+21 hace O
+22 diagnóstico O
+23 de O
+24 infección O
+25 por O
+26 parvovirus O
+27 B19 O
+28 , O
+29 insuficiencia O
+30 respiratoria O
+31 y O
+32 pancitopenia O
+33 asociada O
+34 . O
+
+# global.columns = id form ner
+# text = La paciente presenta mejoría progresiva al quinto día de ingreso , y se da el alta al duodécimo día sin complicaciones posteriores .
+# sentence_id = 114
+1 La O
+2 paciente O
+3 presenta O
+4 mejoría O
+5 progresiva O
+6 al O
+7 quinto O
+8 día O
+9 de O
+10 ingreso O
+11 , O
+12 y O
+13 se O
+14 da O
+15 el O
+16 alta O
+17 al O
+18 duodécimo O
+19 día O
+20 sin O
+21 complicaciones O
+22 posteriores O
+23 . O
+
+# global.columns = id form ner
+# text = El hermano de la niña presenta posteriormente eritema infeccioso .
+# sentence_id = 115
+1 El O
+2 hermano O
+3 de O
+4 la O
+5 niña O
+6 presenta O
+7 posteriormente O
+8 eritema O
+9 infeccioso O
+10 . O
+
+# global.columns = id form ner
+# text = Varón de 64 años de edad con tumefacción mandibular derecha de 6 meses de evolución .
+# sentence_id = 116
+1 Varón O
+2 de O
+3 64 O
+4 años O
+5 de O
+6 edad O
+7 con O
+8 tumefacción O
+9 mandibular O
+10 derecha O
+11 de O
+12 6 O
+13 meses O
+14 de O
+15 evolución O
+16 . O
+
+# global.columns = id form ner
+# text = La radiografía simple mostraba una lesión expansiva bien delimitada , osteolítica , multiloculada , localizada en rama horizontal mandibular .
+# sentence_id = 117
+1 La O
+2 radiografía O
+3 simple O
+4 mostraba O
+5 una O
+6 lesión O
+7 expansiva O
+8 bien O
+9 delimitada O
+10 , O
+11 osteolítica O
+12 , O
+13 multiloculada O
+14 , O
+15 localizada O
+16 en O
+17 rama O
+18 horizontal O
+19 mandibular O
+20 . O
+
+# global.columns = id form ner
+# text = La tomografía computerizada presentaba una lesión expansiva con destrucción de la cortical ósea .
+# sentence_id = 118
+1 La O
+2 tomografía O
+3 computerizada O
+4 presentaba O
+5 una O
+6 lesión O
+7 expansiva O
+8 con O
+9 destrucción O
+10 de O
+11 la O
+12 cortical O
+13 ósea O
+14 . O
+
+# global.columns = id form ner
+# text = Con el diagnóstico provisional de probable ameloblastoma se procedió a la resección-biopsia de la lesión .
+# sentence_id = 119
+1 Con O
+2 el O
+3 diagnóstico O
+4 provisional O
+5 de O
+6 probable O
+7 ameloblastoma O
+8 se O
+9 procedió O
+10 a O
+11 la O
+12 resección-biopsia O
+13 de O
+14 la O
+15 lesión O
+16 . O
+
+# global.columns = id form ner
+# text = Mediante incisión interpapilar se expuso la mandíbula que mostraba la superficie abombada y destruída por una tumoración carnosa de consistencia densa que rodeaba la rama del nervio dentario inferior .
+# sentence_id = 120
+1 Mediante O
+2 incisión O
+3 interpapilar O
+4 se O
+5 expuso O
+6 la O
+7 mandíbula O
+8 que O
+9 mostraba O
+10 la O
+11 superficie O
+12 abombada O
+13 y O
+14 destruída O
+15 por O
+16 una O
+17 tumoración O
+18 carnosa O
+19 de O
+20 consistencia O
+21 densa O
+22 que O
+23 rodeaba O
+24 la O
+25 rama O
+26 del O
+27 nervio O
+28 dentario O
+29 inferior O
+30 . O
+
+# global.columns = id form ner
+# text = Tras un cuidadoso curetaje de la cavidad ósea se reconstruyó la mandíbula y se repuso la mucosa .
+# sentence_id = 121
+1 Tras O
+2 un O
+3 cuidadoso O
+4 curetaje O
+5 de O
+6 la O
+7 cavidad O
+8 ósea O
+9 se O
+10 reconstruyó O
+11 la O
+12 mandíbula O
+13 y O
+14 se O
+15 repuso O
+16 la O
+17 mucosa O
+18 . O
+
+# global.columns = id form ner
+# text = No hubo complicaciones postquirúrgicas .
+# sentence_id = 122
+1 No O
+2 hubo O
+3 complicaciones O
+4 postquirúrgicas O
+5 . O
+
+# global.columns = id form ner
+# text = El material remitido a Anatomía Patológica consistía en fragmentos tumorales de unos 2x1.5 cm , blanco-grisáceos al corte y de consistencia firme .
+# sentence_id = 123
+1 El O
+2 material O
+3 remitido O
+4 a O
+5 Anatomía O
+6 Patológica O
+7 consistía O
+8 en O
+9 fragmentos O
+10 tumorales O
+11 de O
+12 unos O
+13 2x1.5 O
+14 cm O
+15 , O
+16 blanco-grisáceos O
+17 al O
+18 corte O
+19 y O
+20 de O
+21 consistencia O
+22 firme O
+23 . O
+
+# global.columns = id form ner
+# text = Se tomaron diversas muestras que tras fijarse en formaldehído se incluyeron en parafina y se procesaron mediante técnicas de rutina : se cortaron secciones de 4m de grosor que se tiñeron con hematoxilina-eosina .
+# sentence_id = 124
+1 Se O
+2 tomaron O
+3 diversas O
+4 muestras O
+5 que O
+6 tras O
+7 fijarse O
+8 en O
+9 formaldehído O
+10 se O
+11 incluyeron O
+12 en O
+13 parafina O
+14 y O
+15 se O
+16 procesaron O
+17 mediante O
+18 técnicas O
+19 de O
+20 rutina O
+21 : O
+22 se O
+23 cortaron O
+24 secciones O
+25 de O
+26 4m O
+27 de O
+28 grosor O
+29 que O
+30 se O
+31 tiñeron O
+32 con O
+33 hematoxilina-eosina O
+34 . O
+
+# global.columns = id form ner
+# text = Se procedió a estudio inmunohistoquímico de cortes representativos mediante el método avidina-biotina peroxidasa , utilizando anticuerpos primarios anti antígeno de membrana epitelial EMA , ( Dako M613 , USA , 10 / 500 ) , proteína S - 100 ( Dako , L1845 , USA , prediluída ) , neurofilamentos ( Biogenex 6670 - 0154 , USA ) , enolasa neuroespecífica NSE , ( Biogenex MU055 - VC , USA , 10 / 1000 ) , CD57 ( Becton-Dickinson 7660 , USA , 10 / 500 ) , CD34 ( Becton-Dickinson 7660 , USA , 10 / 500 ) , a-actina de músculo liso ( Dako MO851 , USA , 10 / 200 ) , desmina ( Dako M760 , USA , 10 / 500 ) , y vimentina ( Shandon 402255 , USA , pred . ) .
+# sentence_id = 125
+1 Se O
+2 procedió O
+3 a O
+4 estudio O
+5 inmunohistoquímico O
+6 de O
+7 cortes O
+8 representativos O
+9 mediante O
+10 el O
+11 método O
+12 avidina-biotina O
+13 peroxidasa O
+14 , O
+15 utilizando O
+16 anticuerpos O
+17 primarios O
+18 anti O
+19 antígeno O
+20 de O
+21 membrana O
+22 epitelial O
+23 EMA O
+24 , O
+25 ( O
+26 Dako O
+27 M613 O
+28 , O
+29 USA O
+30 , O
+31 10 O
+32 / O
+33 500 O
+34 ) O
+35 , O
+36 proteína O
+37 S O
+38 - O
+39 100 O
+40 ( O
+41 Dako O
+42 , O
+43 L1845 O
+44 , O
+45 USA O
+46 , O
+47 prediluída O
+48 ) O
+49 , O
+50 neurofilamentos O
+51 ( O
+52 Biogenex O
+53 6670 O
+54 - O
+55 0154 O
+56 , O
+57 USA O
+58 ) O
+59 , O
+60 enolasa O
+61 neuroespecífica O
+62 NSE O
+63 , O
+64 ( O
+65 Biogenex O
+66 MU055 O
+67 - O
+68 VC O
+69 , O
+70 USA O
+71 , O
+72 10 O
+73 / O
+74 1000 O
+75 ) O
+76 , O
+77 CD57 O
+78 ( O
+79 Becton-Dickinson O
+80 7660 O
+81 , O
+82 USA O
+83 , O
+84 10 O
+85 / O
+86 500 O
+87 ) O
+88 , O
+89 CD34 O
+90 ( O
+91 Becton-Dickinson O
+92 7660 O
+93 , O
+94 USA O
+95 , O
+96 10 O
+97 / O
+98 500 O
+99 ) O
+100 , O
+101 a-actina O
+102 de O
+103 músculo O
+104 liso O
+105 ( O
+106 Dako O
+107 MO851 O
+108 , O
+109 USA O
+110 , O
+111 10 O
+112 / O
+113 200 O
+114 ) O
+115 , O
+116 desmina O
+117 ( O
+118 Dako O
+119 M760 O
+120 , O
+121 USA O
+122 , O
+123 10 O
+124 / O
+125 500 O
+126 ) O
+127 , O
+128 y O
+129 vimentina O
+130 ( O
+131 Shandon O
+132 402255 O
+133 , O
+134 USA O
+135 , O
+136 pred O
+137 . O
+138 ) O
+139 . O
+
+# global.columns = id form ner
+# text = El proceso se realizó siguiendo el protocolo estándar , utilizando controles positivos y negativos .
+# sentence_id = 126
+1 El O
+2 proceso O
+3 se O
+4 realizó O
+5 siguiendo O
+6 el O
+7 protocolo O
+8 estándar O
+9 , O
+10 utilizando O
+11 controles O
+12 positivos O
+13 y O
+14 negativos O
+15 . O
+
+# global.columns = id form ner
+# text = La hibridización in situ con fluorescencia ( FISH ) se realizó en cortes parafinados de 50m de espesor mediante un mezclador de doble color LSI BCR / ABL ( VYSIS Inc , Downers Grove , USA ) siguiendo el procedimiento recomendado por el fabricante y se examinaron con un microscopio de fluorescencia Nikon con un filtro de triple banda , siendo estudiados un centenar de núcleos por dos de los autores .
+# sentence_id = 127
+1 La O
+2 hibridización O
+3 in O
+4 situ O
+5 con O
+6 fluorescencia O
+7 ( O
+8 FISH O
+9 ) O
+10 se O
+11 realizó O
+12 en O
+13 cortes O
+14 parafinados O
+15 de O
+16 50m O
+17 de O
+18 espesor O
+19 mediante O
+20 un O
+21 mezclador O
+22 de O
+23 doble O
+24 color O
+25 LSI O
+26 BCR O
+27 / O
+28 ABL O
+29 ( O
+30 VYSIS O
+31 Inc O
+32 , O
+33 Downers O
+34 Grove O
+35 , O
+36 USA O
+37 ) O
+38 siguiendo O
+39 el O
+40 procedimiento O
+41 recomendado O
+42 por O
+43 el O
+44 fabricante O
+45 y O
+46 se O
+47 examinaron O
+48 con O
+49 un O
+50 microscopio O
+51 de O
+52 fluorescencia O
+53 Nikon O
+54 con O
+55 un O
+56 filtro O
+57 de O
+58 triple O
+59 banda O
+60 , O
+61 siendo O
+62 estudiados O
+63 un O
+64 centenar O
+65 de O
+66 núcleos O
+67 por O
+68 dos O
+69 de O
+70 los O
+71 autores O
+72 . O
+
+# global.columns = id form ner
+# text = Histológicamente los fragmentos tumorales estaban constituídos por células alargadas de forma y tamaño regulares dispuestas en haces entrelazados y en remolinos estructurados en " bulbo de cebolla " .
+# sentence_id = 128
+1 Histológicamente O
+2 los O
+3 fragmentos O
+4 tumorales O
+5 estaban O
+6 constituídos O
+7 por O
+8 células O
+9 alargadas O
+10 de O
+11 forma O
+12 y O
+13 tamaño O
+14 regulares O
+15 dispuestas O
+16 en O
+17 haces O
+18 entrelazados O
+19 y O
+20 en O
+21 remolinos O
+22 estructurados O
+23 en O
+24 " O
+25 bulbo O
+26 de O
+27 cebolla O
+28 " O
+29 . O
+
+# global.columns = id form ner
+# text = La densidad celular y del estroma intercelular eran variables , con algunas zonas mostrando aspecto mixoide .
+# sentence_id = 129
+1 La O
+2 densidad O
+3 celular O
+4 y O
+5 del O
+6 estroma O
+7 intercelular O
+8 eran O
+9 variables O
+10 , O
+11 con O
+12 algunas O
+13 zonas O
+14 mostrando O
+15 aspecto O
+16 mixoide O
+17 . O
+
+# global.columns = id form ner
+# text = No se apreciaron células dispuestas en empalizada ni se observaron pleomorfimso celular o mitosis atípicas .
+# sentence_id = 130
+1 No O
+2 se O
+3 apreciaron O
+4 células O
+5 dispuestas O
+6 en O
+7 empalizada O
+8 ni O
+9 se O
+10 observaron O
+11 pleomorfimso O
+12 celular O
+13 o O
+14 mitosis O
+15 atípicas O
+16 . O
+
+# global.columns = id form ner
+# text = En la periferia de algunos fragmentos se identificaron fibras residuales del tronco nervioso mandibular .
+# sentence_id = 131
+1 En O
+2 la O
+3 periferia O
+4 de O
+5 algunos O
+6 fragmentos O
+7 se O
+8 identificaron O
+9 fibras O
+10 residuales O
+11 del O
+12 tronco O
+13 nervioso O
+14 mandibular O
+15 . O
+
+# global.columns = id form ner
+# text = Con el diagnóstico provisional de PIN se procedió a los examenes complementarios .
+# sentence_id = 132
+1 Con O
+2 el O
+3 diagnóstico O
+4 provisional O
+5 de O
+6 PIN O
+7 se O
+8 procedió O
+9 a O
+10 los O
+11 examenes O
+12 complementarios O
+13 . O
+
+# global.columns = id form ner
+# text = La inmunohistoquímica mostró que las células tumorales eran intensamente positivas para el EMA y la vimentina y negativas para la proteína S - 100 , NSE , colágeno IV , CD57 , a-actina de músculo liso , desmina y CD34 .
+# sentence_id = 133
+# relations = 6;6;9;10;RESULT_OF|6;6;18;18;RESULT_OF|9;10;13;13;RESULT_OF|9;10;16;16;RESULT_OF|18;18;21;21;RESULT_OF|18;18;31;31;RESULT_OF|18;18;28;28;RESULT_OF|18;18;26;26;RESULT_OF|18;18;40;40;RESULT_OF|18;18;38;38;RESULT_OF|18;18;33;33;RESULT_OF
+1 La O
+2 inmunohistoquímica O
+3 mostró O
+4 que O
+5 las O
+6 células B-PROCEDURE
+7 tumorales O
+8 eran O
+9 intensamente B-RESULT
+10 positivas I-RESULT
+11 para O
+12 el O
+13 EMA B-PROCEDURE
+14 y O
+15 la O
+16 vimentina B-PROCEDURE
+17 y O
+18 negativas B-RESULT
+19 para O
+20 la O
+21 proteína B-PROCEDURE
+22 S O
+23 - O
+24 100 O
+25 , O
+26 NSE B-PROCEDURE
+27 , O
+28 colágeno B-PROCEDURE
+29 IV O
+30 , O
+31 CD57 B-PROCEDURE
+32 , O
+33 a-actina B-PROCEDURE
+34 de O
+35 músculo O
+36 liso O
+37 , O
+38 desmina B-PROCEDURE
+39 y O
+40 CD34 B-PROCEDURE
+41 . O
+
+# global.columns = id form ner
+# text = Las células de Schwann en los remolinos eran positivas para la proteína S - 100 y en el centro de los " bulbos " se identificaron axones positivos para el antígeno anti-neurofilamento .
+# sentence_id = 134
+# relations = 9;9;12;12;RESULT_OF|28;28;31;31;RESULT_OF
+1 Las O
+2 células O
+3 de O
+4 Schwann O
+5 en O
+6 los O
+7 remolinos O
+8 eran O
+9 positivas B-RESULT
+10 para O
+11 la O
+12 proteína B-PROCEDURE
+13 S O
+14 - O
+15 100 O
+16 y O
+17 en O
+18 el O
+19 centro O
+20 de O
+21 los O
+22 " O
+23 bulbos O
+24 " O
+25 se O
+26 identificaron O
+27 axones O
+28 positivos B-RESULT
+29 para O
+30 el O
+31 antígeno B-PROCEDURE
+32 anti-neurofilamento O
+33 . O
+
+# global.columns = id form ner
+# text = Las fibras residuales del nervio dentario eran positivas para la proteína S - 100 , la NSE y los neurofilamentos y el perineurio positivo para el EMA .
+# sentence_id = 135
+# relations = 8;8;17;17;RESULT_OF|8;8;11;11;RESULT_OF|8;8;20;20;RESULT_OF|24;24;27;27;RESULT_OF
+1 Las O
+2 fibras O
+3 residuales O
+4 del O
+5 nervio O
+6 dentario O
+7 eran O
+8 positivas B-RESULT
+9 para O
+10 la O
+11 proteína B-PROCEDURE
+12 S O
+13 - O
+14 100 O
+15 , O
+16 la O
+17 NSE B-PROCEDURE
+18 y O
+19 los O
+20 neurofilamentos B-PROCEDURE
+21 y O
+22 el O
+23 perineurio O
+24 positivo B-RESULT
+25 para O
+26 el O
+27 EMA B-PROCEDURE
+28 . O
+
+# global.columns = id form ner
+# text = La hibridización in situ con fluorescencia reveló una delección del brazo largo del cromosoma 22 ( 22q11 ) en los núcleos del 75% de las células tumorales así como pérdida de centrómero del cromosoma 22 .
+# sentence_id = 136
+1 La O
+2 hibridización O
+3 in O
+4 situ O
+5 con O
+6 fluorescencia O
+7 reveló O
+8 una O
+9 delección O
+10 del O
+11 brazo O
+12 largo O
+13 del O
+14 cromosoma O
+15 22 O
+16 ( O
+17 22q11 O
+18 ) O
+19 en O
+20 los O
+21 núcleos O
+22 del O
+23 75% O
+24 de O
+25 las O
+26 células O
+27 tumorales O
+28 así O
+29 como O
+30 pérdida O
+31 de O
+32 centrómero O
+33 del O
+34 cromosoma O
+35 22 O
+36 . O
+
+# global.columns = id form ner
+# text = Hombre de 46 años , sin antecedentes patológicos relevantes , no fumador .
+# sentence_id = 137
+1 Hombre O
+2 de O
+3 46 O
+4 años O
+5 , O
+6 sin O
+7 antecedentes O
+8 patológicos O
+9 relevantes O
+10 , O
+11 no O
+12 fumador O
+13 . O
+
+# global.columns = id form ner
+# text = Se le realizó una rehabilitación fija sobre un implante unitario ( ITI ® SLA .
+# sentence_id = 138
+1 Se O
+2 le O
+3 realizó O
+4 una O
+5 rehabilitación O
+6 fija O
+7 sobre O
+8 un O
+9 implante O
+10 unitario O
+11 ( O
+12 ITI O
+13 ® O
+14 SLA O
+15 . O
+
+# global.columns = id form ner
+# text = Straumann .
+# sentence_id = 139
+1 Straumann O
+2 . O
+
+# global.columns = id form ner
+# text = Walderburg-Switzerland ) colocado en zona de 3.6 .
+# sentence_id = 140
+1 Walderburg-Switzerland O
+2 ) O
+3 colocado O
+4 en O
+5 zona O
+6 de O
+7 3.6 O
+8 . O
+
+# global.columns = id form ner
+# text = A los 6 meses de cementada la corona , acudió a control sin relatar sintomatología asociada .
+# sentence_id = 141
+1 A O
+2 los O
+3 6 O
+4 meses O
+5 de O
+6 cementada O
+7 la O
+8 corona O
+9 , O
+10 acudió O
+11 a O
+12 control O
+13 sin O
+14 relatar O
+15 sintomatología O
+16 asociada O
+17 . O
+
+# global.columns = id form ner
+# text = Al examen clínico se detectó un leve enrojecimiento de la mucosa adyacente al implante y una bolsa periimplantaria de 6 mm de profundidad , con leve sangramiento al sondaje .
+# sentence_id = 142
+# relations = 17;17;20;23;RESULT_OF
+1 Al O
+2 examen O
+3 clínico O
+4 se O
+5 detectó O
+6 un O
+7 leve O
+8 enrojecimiento O
+9 de O
+10 la O
+11 mucosa O
+12 adyacente O
+13 al O
+14 implante O
+15 y O
+16 una O
+17 bolsa B-PROCEDURE
+18 periimplantaria O
+19 de O
+20 6 B-RESULT
+21 mm I-RESULT
+22 de I-RESULT
+23 profundidad I-RESULT
+24 , O
+25 con O
+26 leve O
+27 sangramiento O
+28 al O
+29 sondaje O
+30 . O
+
+# global.columns = id form ner
+# text = El papel de articular mostró un contacto prematuro sobre corona protésica .
+# sentence_id = 143
+1 El O
+2 papel O
+3 de O
+4 articular O
+5 mostró O
+6 un O
+7 contacto O
+8 prematuro O
+9 sobre O
+10 corona O
+11 protésica O
+12 . O
+
+# global.columns = id form ner
+# text = En la radiografía panorámica se observó un área radiotransparente en el hueso marginal a 3.6 .
+# sentence_id = 144
+1 En O
+2 la O
+3 radiografía O
+4 panorámica O
+5 se O
+6 observó O
+7 un O
+8 área O
+9 radiotransparente O
+10 en O
+11 el O
+12 hueso O
+13 marginal O
+14 a O
+15 3.6 O
+16 . O
+
+# global.columns = id form ner
+# text = Se realizó el tallado oclusal de la corona protésica .
+# sentence_id = 145
+1 Se O
+2 realizó O
+3 el O
+4 tallado O
+5 oclusal O
+6 de O
+7 la O
+8 corona O
+9 protésica O
+10 . O
+
+# global.columns = id form ner
+# text = Posteriormente , se levantó un colgajo mucoperióstico desde 3.5 a 3.7 , observándose un rodete de tejido blando de aspecto fibroso que ocupaba un defecto óseo periimplantario marginal a 3.6 .
+# sentence_id = 146
+1 Posteriormente O
+2 , O
+3 se O
+4 levantó O
+5 un O
+6 colgajo O
+7 mucoperióstico O
+8 desde O
+9 3.5 O
+10 a O
+11 3.7 O
+12 , O
+13 observándose O
+14 un O
+15 rodete O
+16 de O
+17 tejido O
+18 blando O
+19 de O
+20 aspecto O
+21 fibroso O
+22 que O
+23 ocupaba O
+24 un O
+25 defecto O
+26 óseo O
+27 periimplantario O
+28 marginal O
+29 a O
+30 3.6 O
+31 . O
+
+# global.columns = id form ner
+# text = Se procedió a retirar el tejido patológico con curetas plásticas y fue enviado a estudio anatomopatológico .
+# sentence_id = 147
+1 Se O
+2 procedió O
+3 a O
+4 retirar O
+5 el O
+6 tejido O
+7 patológico O
+8 con O
+9 curetas O
+10 plásticas O
+11 y O
+12 fue O
+13 enviado O
+14 a O
+15 estudio O
+16 anatomopatológico O
+17 . O
+
+# global.columns = id form ner
+# text = La superficie del implante se descontaminó con gel de clorhexidina al 0.2% durante 2 minutos e irrigación con suero fisiológico .
+# sentence_id = 148
+1 La O
+2 superficie O
+3 del O
+4 implante O
+5 se O
+6 descontaminó O
+7 con O
+8 gel O
+9 de O
+10 clorhexidina O
+11 al O
+12 0.2% O
+13 durante O
+14 2 O
+15 minutos O
+16 e O
+17 irrigación O
+18 con O
+19 suero O
+20 fisiológico O
+21 . O
+
+# global.columns = id form ner
+# text = El colgajo fue ampliado para acceder a un torus mandibular lingual en zona de premolares ipsilateral , el cual se extrajo y particuló para servir de autoinjerto .
+# sentence_id = 149
+1 El O
+2 colgajo O
+3 fue O
+4 ampliado O
+5 para O
+6 acceder O
+7 a O
+8 un O
+9 torus O
+10 mandibular O
+11 lingual O
+12 en O
+13 zona O
+14 de O
+15 premolares O
+16 ipsilateral O
+17 , O
+18 el O
+19 cual O
+20 se O
+21 extrajo O
+22 y O
+23 particuló O
+24 para O
+25 servir O
+26 de O
+27 autoinjerto O
+28 . O
+
+# global.columns = id form ner
+# text = El colgajo fue reposicionado y se suturó con seda 3.0 .
+# sentence_id = 150
+1 El O
+2 colgajo O
+3 fue O
+4 reposicionado O
+5 y O
+6 se O
+7 suturó O
+8 con O
+9 seda O
+10 3.0 O
+11 . O
+
+# global.columns = id form ner
+# text = El paciente fue reinstruido en higiene oral , se prescibió ibuprofeno 600 mg cada 8 hrs x 4 días y colutorios con digluconato de clorhexidina al 0.12% 2 veces al día x 2 semanas .
+# sentence_id = 151
+1 El O
+2 paciente O
+3 fue O
+4 reinstruido O
+5 en O
+6 higiene O
+7 oral O
+8 , O
+9 se O
+10 prescibió O
+11 ibuprofeno O
+12 600 O
+13 mg O
+14 cada O
+15 8 O
+16 hrs O
+17 x O
+18 4 O
+19 días O
+20 y O
+21 colutorios O
+22 con O
+23 digluconato O
+24 de O
+25 clorhexidina O
+26 al O
+27 0.12% O
+28 2 O
+29 veces O
+30 al O
+31 día O
+32 x O
+33 2 O
+34 semanas O
+35 . O
+
+# global.columns = id form ner
+# text = El análisis histopatológico evidenció un tejido epitelio-conectivo , con abundante infiltrado linfo-plasmocitario yuxtaepitelial .
+# sentence_id = 152
+1 El O
+2 análisis O
+3 histopatológico O
+4 evidenció O
+5 un O
+6 tejido O
+7 epitelio-conectivo O
+8 , O
+9 con O
+10 abundante O
+11 infiltrado O
+12 linfo-plasmocitario O
+13 yuxtaepitelial O
+14 . O
+
+# global.columns = id form ner
+# text = Bajo la zona superficial , se apreció un tejido fibroconectivo denso con escasa células inflamatorias .
+# sentence_id = 153
+1 Bajo O
+2 la O
+3 zona O
+4 superficial O
+5 , O
+6 se O
+7 apreció O
+8 un O
+9 tejido O
+10 fibroconectivo O
+11 denso O
+12 con O
+13 escasa O
+14 células O
+15 inflamatorias O
+16 . O
+
+# global.columns = id form ner
+# text = A los 12 meses de realizado el tratamiento quirúrgico , en una radiografía se observó la recuperación ósea marginal y un aspecto clínico de normalidad , con ausencia de sintomatología .
+# sentence_id = 154
+# relations = 22;22;25;25;RESULT_OF
+1 A O
+2 los O
+3 12 O
+4 meses O
+5 de O
+6 realizado O
+7 el O
+8 tratamiento O
+9 quirúrgico O
+10 , O
+11 en O
+12 una O
+13 radiografía O
+14 se O
+15 observó O
+16 la O
+17 recuperación O
+18 ósea O
+19 marginal O
+20 y O
+21 un O
+22 aspecto B-PROCEDURE
+23 clínico O
+24 de O
+25 normalidad B-RESULT
+26 , O
+27 con O
+28 ausencia O
+29 de O
+30 sintomatología O
+31 . O
+
+# global.columns = id form ner
+# text = Presentamos el caso de una paciente de 20 años de edad que acude a la Facultad de Odontología de Sevilla derivada por su ortondoncista .
+# sentence_id = 155
+1 Presentamos O
+2 el O
+3 caso O
+4 de O
+5 una O
+6 paciente O
+7 de O
+8 20 O
+9 años O
+10 de O
+11 edad O
+12 que O
+13 acude O
+14 a O
+15 la O
+16 Facultad O
+17 de O
+18 Odontología O
+19 de O
+20 Sevilla O
+21 derivada O
+22 por O
+23 su O
+24 ortondoncista O
+25 . O
+
+# global.columns = id form ner
+# text = Ante la inadecuada posición del canino inferior izquierdo ( incluido en posición horizontal ) , el canino temporal fue utilizado por el ortodoncista durante el tratamiento ortodóncico como permanente , no considerando apropiado el rescate del diente definitivo .
+# sentence_id = 156
+1 Ante O
+2 la O
+3 inadecuada O
+4 posición O
+5 del O
+6 canino O
+7 inferior O
+8 izquierdo O
+9 ( O
+10 incluido O
+11 en O
+12 posición O
+13 horizontal O
+14 ) O
+15 , O
+16 el O
+17 canino O
+18 temporal O
+19 fue O
+20 utilizado O
+21 por O
+22 el O
+23 ortodoncista O
+24 durante O
+25 el O
+26 tratamiento O
+27 ortodóncico O
+28 como O
+29 permanente O
+30 , O
+31 no O
+32 considerando O
+33 apropiado O
+34 el O
+35 rescate O
+36 del O
+37 diente O
+38 definitivo O
+39 . O
+
+# global.columns = id form ner
+# text = Informó a la paciente de la existencia de la inclusión dentaria y de la necesidad de la extracción o al menos la vigilancia de la misma .
+# sentence_id = 157
+1 Informó O
+2 a O
+3 la O
+4 paciente O
+5 de O
+6 la O
+7 existencia O
+8 de O
+9 la O
+10 inclusión O
+11 dentaria O
+12 y O
+13 de O
+14 la O
+15 necesidad O
+16 de O
+17 la O
+18 extracción O
+19 o O
+20 al O
+21 menos O
+22 la O
+23 vigilancia O
+24 de O
+25 la O
+26 misma O
+27 . O
+
+# global.columns = id form ner
+# text = En la exploración radiológica ( ortopantomografía ) comprobamos la inclusión del canino inferior izquierdo en posición horizontal bajo los ápices de los premolares y caninos inferiores contralaterales ( patrón de transmigración 4 de Mupparapu ( 8 ) ) .
+# sentence_id = 158
+1 En O
+2 la O
+3 exploración O
+4 radiológica O
+5 ( O
+6 ortopantomografía O
+7 ) O
+8 comprobamos O
+9 la O
+10 inclusión O
+11 del O
+12 canino O
+13 inferior O
+14 izquierdo O
+15 en O
+16 posición O
+17 horizontal O
+18 bajo O
+19 los O
+20 ápices O
+21 de O
+22 los O
+23 premolares O
+24 y O
+25 caninos O
+26 inferiores O
+27 contralaterales O
+28 ( O
+29 patrón O
+30 de O
+31 transmigración O
+32 4 O
+33 de O
+34 Mupparapu O
+35 ( O
+36 8 O
+37 ) O
+38 ) O
+39 . O
+
+# global.columns = id form ner
+# text = Ante la evidencia de la transmigración del canino , indicamos la extracción del mismo .
+# sentence_id = 159
+1 Ante O
+2 la O
+3 evidencia O
+4 de O
+5 la O
+6 transmigración O
+7 del O
+8 canino O
+9 , O
+10 indicamos O
+11 la O
+12 extracción O
+13 del O
+14 mismo O
+15 . O
+
+# global.columns = id form ner
+# text = Si siguiéramos controlando el caso , al acercarse el diente incluido al agujero mentoniano , se aumentaría innecesariamente los riesgos de la intervención , a la vez que se produciría casi con toda seguridad clínica derivada de la irritación del nervio dentario inferior por parte del diente incluido ( 9 , 10 ) .
+# sentence_id = 160
+1 Si O
+2 siguiéramos O
+3 controlando O
+4 el O
+5 caso O
+6 , O
+7 al O
+8 acercarse O
+9 el O
+10 diente O
+11 incluido O
+12 al O
+13 agujero O
+14 mentoniano O
+15 , O
+16 se O
+17 aumentaría O
+18 innecesariamente O
+19 los O
+20 riesgos O
+21 de O
+22 la O
+23 intervención O
+24 , O
+25 a O
+26 la O
+27 vez O
+28 que O
+29 se O
+30 produciría O
+31 casi O
+32 con O
+33 toda O
+34 seguridad O
+35 clínica O
+36 derivada O
+37 de O
+38 la O
+39 irritación O
+40 del O
+41 nervio O
+42 dentario O
+43 inferior O
+44 por O
+45 parte O
+46 del O
+47 diente O
+48 incluido O
+49 ( O
+50 9 O
+51 , O
+52 10 O
+53 ) O
+54 . O
+
+# global.columns = id form ner
+# text = Se realizó la extracción a través de una incisión de Neuman parcial , con descarga a nivel del incisivo lateral izquierdo .
+# sentence_id = 161
+1 Se O
+2 realizó O
+3 la O
+4 extracción O
+5 a O
+6 través O
+7 de O
+8 una O
+9 incisión O
+10 de O
+11 Neuman O
+12 parcial O
+13 , O
+14 con O
+15 descarga O
+16 a O
+17 nivel O
+18 del O
+19 incisivo O
+20 lateral O
+21 izquierdo O
+22 . O
+
+# global.columns = id form ner
+# text = No se realizó descarga en el cuarto cuadrante por la cercanía del agujero mentoniano , identificando y protegiendo al nervio mentoniano derecho durante la intervención .
+# sentence_id = 162
+1 No O
+2 se O
+3 realizó O
+4 descarga O
+5 en O
+6 el O
+7 cuarto O
+8 cuadrante O
+9 por O
+10 la O
+11 cercanía O
+12 del O
+13 agujero O
+14 mentoniano O
+15 , O
+16 identificando O
+17 y O
+18 protegiendo O
+19 al O
+20 nervio O
+21 mentoniano O
+22 derecho O
+23 durante O
+24 la O
+25 intervención O
+26 . O
+
+# global.columns = id form ner
+# text = El diente se extrajo mediante osteotomía coronal y doble odontosección , eliminando también el saco pericoronario .
+# sentence_id = 163
+1 El O
+2 diente O
+3 se O
+4 extrajo O
+5 mediante O
+6 osteotomía O
+7 coronal O
+8 y O
+9 doble O
+10 odontosección O
+11 , O
+12 eliminando O
+13 también O
+14 el O
+15 saco O
+16 pericoronario O
+17 . O
+
+# global.columns = id form ner
+# text = Finalmente se suturó la herida y se prescribió tratamiento analgésico , antiinflamatorio ( Ibuprofeno 600 mgr , 1 comp . / 8 horas durante una semana ) y antibiótico ( Amoxicilina 875 mgr / Ácido clavulánico 125 mgr , 1 comp . / 8 horas durante una semana ) durante el postoperatorio , que transcurrió sin incidencias .
+# sentence_id = 164
+1 Finalmente O
+2 se O
+3 suturó O
+4 la O
+5 herida O
+6 y O
+7 se O
+8 prescribió O
+9 tratamiento O
+10 analgésico O
+11 , O
+12 antiinflamatorio O
+13 ( O
+14 Ibuprofeno O
+15 600 O
+16 mgr O
+17 , O
+18 1 O
+19 comp O
+20 . O
+21 / O
+22 8 O
+23 horas O
+24 durante O
+25 una O
+26 semana O
+27 ) O
+28 y O
+29 antibiótico O
+30 ( O
+31 Amoxicilina O
+32 875 O
+33 mgr O
+34 / O
+35 Ácido O
+36 clavulánico O
+37 125 O
+38 mgr O
+39 , O
+40 1 O
+41 comp O
+42 . O
+43 / O
+44 8 O
+45 horas O
+46 durante O
+47 una O
+48 semana O
+49 ) O
+50 durante O
+51 el O
+52 postoperatorio O
+53 , O
+54 que O
+55 transcurrió O
+56 sin O
+57 incidencias O
+58 . O
+
+# global.columns = id form ner
+# text = Los puntos se retiraron a los diez días .
+# sentence_id = 165
+1 Los O
+2 puntos O
+3 se O
+4 retiraron O
+5 a O
+6 los O
+7 diez O
+8 días O
+9 . O
+
+# global.columns = id form ner
+# text = La evolución fue favorable sin detectarse complicación alguna .
+# sentence_id = 166
+1 La O
+2 evolución O
+3 fue O
+4 favorable O
+5 sin O
+6 detectarse O
+7 complicación O
+8 alguna O
+9 . O
+
+# global.columns = id form ner
+# text = Paciente de 59 años que refiere dificultad para caminar desde hace un mes aproximadamente .
+# sentence_id = 167
+1 Paciente O
+2 de O
+3 59 O
+4 años O
+5 que O
+6 refiere O
+7 dificultad O
+8 para O
+9 caminar O
+10 desde O
+11 hace O
+12 un O
+13 mes O
+14 aproximadamente O
+15 . O
+
+# global.columns = id form ner
+# text = Presenta debilidad y dolor en los miembros inferiores , que mejora tras detenerse , acompañándose en ocasiones de lumbalgia no irradiada .
+# sentence_id = 168
+1 Presenta O
+2 debilidad O
+3 y O
+4 dolor O
+5 en O
+6 los O
+7 miembros O
+8 inferiores O
+9 , O
+10 que O
+11 mejora O
+12 tras O
+13 detenerse O
+14 , O
+15 acompañándose O
+16 en O
+17 ocasiones O
+18 de O
+19 lumbalgia O
+20 no O
+21 irradiada O
+22 . O
+
+# global.columns = id form ner
+# text = Ha notado cambios en la voz , siendo ésta más disfónica , que relaciona con su trabajo .
+# sentence_id = 169
+1 Ha O
+2 notado O
+3 cambios O
+4 en O
+5 la O
+6 voz O
+7 , O
+8 siendo O
+9 ésta O
+10 más O
+11 disfónica O
+12 , O
+13 que O
+14 relaciona O
+15 con O
+16 su O
+17 trabajo O
+18 . O
+
+# global.columns = id form ner
+# text = En la anamnesis dirigida no refiere debilidad en las manos o extremidades superiores .
+# sentence_id = 170
+1 En O
+2 la O
+3 anamnesis O
+4 dirigida O
+5 no O
+6 refiere O
+7 debilidad O
+8 en O
+9 las O
+10 manos O
+11 o O
+12 extremidades O
+13 superiores O
+14 . O
+
+# global.columns = id form ner
+# text = No presenta trastorno ocular , ni de control de esfínteres y tampoco a nivel sensitivo .
+# sentence_id = 171
+1 No O
+2 presenta O
+3 trastorno O
+4 ocular O
+5 , O
+6 ni O
+7 de O
+8 control O
+9 de O
+10 esfínteres O
+11 y O
+12 tampoco O
+13 a O
+14 nivel O
+15 sensitivo O
+16 . O
+
+# global.columns = id form ner
+# text = No se aprecia labilidad emocional , aunque el paciente ya presentaba un trastorno adaptativo tras la muerte de su mujer .
+# sentence_id = 172
+1 No O
+2 se O
+3 aprecia O
+4 labilidad O
+5 emocional O
+6 , O
+7 aunque O
+8 el O
+9 paciente O
+10 ya O
+11 presentaba O
+12 un O
+13 trastorno O
+14 adaptativo O
+15 tras O
+16 la O
+17 muerte O
+18 de O
+19 su O
+20 mujer O
+21 . O
+
+# global.columns = id form ner
+# text = Refiere calambres ocasionales en gemelos .
+# sentence_id = 173
+1 Refiere O
+2 calambres O
+3 ocasionales O
+4 en O
+5 gemelos O
+6 . O
+
+# global.columns = id form ner
+# text = Como antecedentes personales , es hipertenso y diabético tipo 2 .
+# sentence_id = 174
+1 Como O
+2 antecedentes O
+3 personales O
+4 , O
+5 es O
+6 hipertenso O
+7 y O
+8 diabético O
+9 tipo O
+10 2 O
+11 . O
+
+# global.columns = id form ner
+# text = Antecedentes familiares : tío paterno fallecido con el diagnóstico de Esclerosis lateral amiotrófica ( ELA ) .
+# sentence_id = 175
+1 Antecedentes O
+2 familiares O
+3 : O
+4 tío O
+5 paterno O
+6 fallecido O
+7 con O
+8 el O
+9 diagnóstico O
+10 de O
+11 Esclerosis O
+12 lateral O
+13 amiotrófica O
+14 ( O
+15 ELA O
+16 ) O
+17 . O
+
+# global.columns = id form ner
+# text = En la exploración neurológica presenta habla hipofónica , facial centrado .
+# sentence_id = 176
+1 En O
+2 la O
+3 exploración O
+4 neurológica O
+5 presenta O
+6 habla O
+7 hipofónica O
+8 , O
+9 facial O
+10 centrado O
+11 . O
+
+# global.columns = id form ner
+# text = Motilidad ocular interna y externa normal .
+# sentence_id = 177
+# relations = 1;1;6;6;RESULT_OF
+1 Motilidad B-PROCEDURE
+2 ocular O
+3 interna O
+4 y O
+5 externa O
+6 normal B-RESULT
+7 . O
+
+# global.columns = id form ner
+# text = Fasciculaciones linguales .
+# sentence_id = 178
+1 Fasciculaciones O
+2 linguales O
+3 . O
+
+# global.columns = id form ner
+# text = No debilidad cervical .
+# sentence_id = 179
+1 No O
+2 debilidad O
+3 cervical O
+4 . O
+
+# global.columns = id form ner
+# text = Motor : miembros inferiores ( MMII ) : paraparesia de predominio proximal 4 / 5 .
+# sentence_id = 180
+# relations = 9;9;13;15;RESULT_OF
+1 Motor O
+2 : O
+3 miembros O
+4 inferiores O
+5 ( O
+6 MMII O
+7 ) O
+8 : O
+9 paraparesia B-PROCEDURE
+10 de O
+11 predominio O
+12 proximal O
+13 4 B-RESULT
+14 / I-RESULT
+15 5 I-RESULT
+16 . O
+
+# global.columns = id form ner
+# text = Dorsiflexión de ambos pies 5 / 5 .
+# sentence_id = 181
+# relations = 1;1;5;7;RESULT_OF
+1 Dorsiflexión B-PROCEDURE
+2 de O
+3 ambos O
+4 pies O
+5 5 B-RESULT
+6 / I-RESULT
+7 5 I-RESULT
+8 . O
+
+# global.columns = id form ner
+# text = No se objetiva debilidad en miembros superiores .
+# sentence_id = 182
+1 No O
+2 se O
+3 objetiva O
+4 debilidad O
+5 en O
+6 miembros O
+7 superiores O
+8 . O
+
+# global.columns = id form ner
+# text = No déficit sensitivo .
+# sentence_id = 183
+1 No O
+2 déficit O
+3 sensitivo O
+4 . O
+
+# global.columns = id form ner
+# text = Reflejo osteo-tendinoso ( ROT ) + + + / + + + con Hoffmann positivo bilateral y reflejo cutáneo-plantar derecho indiferente , izquierdo conservado .
+# sentence_id = 184
+# relations = 1;1;6;12;RESULT_OF|4;4;6;12;RESULT_OF|14;14;15;15;RESULT_OF
+1 Reflejo B-PROCEDURE
+2 osteo-tendinoso O
+3 ( O
+4 ROT B-PROCEDURE
+5 ) O
+6 + B-RESULT
+7 + I-RESULT
+8 + I-RESULT
+9 / I-RESULT
+10 + I-RESULT
+11 + I-RESULT
+12 + I-RESULT
+13 con O
+14 Hoffmann B-PROCEDURE
+15 positivo B-RESULT
+16 bilateral O
+17 y O
+18 reflejo O
+19 cutáneo-plantar O
+20 derecho O
+21 indiferente O
+22 , O
+23 izquierdo O
+24 conservado O
+25 . O
+
+# global.columns = id form ner
+# text = Fasciculaciones en deltoides , pectorales y de forma difusa en MMII .
+# sentence_id = 185
+1 Fasciculaciones O
+2 en O
+3 deltoides O
+4 , O
+5 pectorales O
+6 y O
+7 de O
+8 forma O
+9 difusa O
+10 en O
+11 MMII O
+12 . O
+
+# global.columns = id form ner
+# text = Atrofia muscular en ambos cuádriceps .
+# sentence_id = 186
+1 Atrofia O
+2 muscular O
+3 en O
+4 ambos O
+5 cuádriceps O
+6 . O
+
+# global.columns = id form ner
+# text = Exploración general anodina .
+# sentence_id = 187
+# relations = 1;1;3;3;RESULT_OF
+1 Exploración B-PROCEDURE
+2 general O
+3 anodina B-RESULT
+4 . O
+
+# global.columns = id form ner
+# text = Se realiza índice tobillo-brazo ( ITB ) : derecho 1,18 ; izquierdo 1,29 .
+# sentence_id = 188
+# relations = 9;9;10;10;RESULT_OF|12;12;13;13;RESULT_OF
+1 Se O
+2 realiza O
+3 índice O
+4 tobillo-brazo O
+5 ( O
+6 ITB O
+7 ) O
+8 : O
+9 derecho B-PROCEDURE
+10 1,18 B-RESULT
+11 ; O
+12 izquierdo B-PROCEDURE
+13 1,29 B-RESULT
+14 . O
+
+# global.columns = id form ner
+# text = Se solicita analítica , donde destaca CK de 232 , estudio inmunológico y serología normal .
+# sentence_id = 189
+# relations = 7;7;9;9;RESULT_OF|11;11;15;15;RESULT_OF|14;14;15;15;RESULT_OF
+1 Se O
+2 solicita O
+3 analítica O
+4 , O
+5 donde O
+6 destaca O
+7 CK B-PROCEDURE
+8 de O
+9 232 B-RESULT
+10 , O
+11 estudio B-PROCEDURE
+12 inmunológico O
+13 y O
+14 serología B-PROCEDURE
+15 normal B-RESULT
+16 . O
+
+# global.columns = id form ner
+# text = Radiografía de tórax y lumbosacra normal .
+# sentence_id = 190
+# relations = 1;1;6;6;RESULT_OF
+1 Radiografía B-PROCEDURE
+2 de O
+3 tórax O
+4 y O
+5 lumbosacra O
+6 normal B-RESULT
+7 . O
+
+# global.columns = id form ner
+# text = Tras sospecha de enfermedad de motoneurona se interconsulta al servicio de Medicina Interna , que solicita electromiograma ( EMG ) / electroneurografía ( ENG ) sugestivo de patrón neurógeno con denervación activa en ambos MMII , miembro superior derecho ( fibrilaciones y ondas positivas ) , compatible con enfermedad de motoneurona , probable ELA .
+# sentence_id = 191
+# relations = 41;41;44;44;RESULT_OF|43;43;44;44;RESULT_OF
+1 Tras O
+2 sospecha O
+3 de O
+4 enfermedad O
+5 de O
+6 motoneurona O
+7 se O
+8 interconsulta O
+9 al O
+10 servicio O
+11 de O
+12 Medicina O
+13 Interna O
+14 , O
+15 que O
+16 solicita O
+17 electromiograma O
+18 ( O
+19 EMG O
+20 ) O
+21 / O
+22 electroneurografía O
+23 ( O
+24 ENG O
+25 ) O
+26 sugestivo O
+27 de O
+28 patrón O
+29 neurógeno O
+30 con O
+31 denervación O
+32 activa O
+33 en O
+34 ambos O
+35 MMII O
+36 , O
+37 miembro O
+38 superior O
+39 derecho O
+40 ( O
+41 fibrilaciones B-PROCEDURE
+42 y O
+43 ondas B-PROCEDURE
+44 positivas B-RESULT
+45 ) O
+46 , O
+47 compatible O
+48 con O
+49 enfermedad O
+50 de O
+51 motoneurona O
+52 , O
+53 probable O
+54 ELA O
+55 . O
+
+# global.columns = id form ner
+# text = Con estos resultados se derivó a Neurología .
+# sentence_id = 192
+1 Con O
+2 estos O
+3 resultados O
+4 se O
+5 derivó O
+6 a O
+7 Neurología O
+8 . O
+
+# global.columns = id form ner
+# text = Tras la valoración del paciente y con diagnóstico de probable ELA , según los criterios revisados de El Escorial , y pendiente de completar estudio con resonancia magnética craneal-medular y nuevo estudio neurolofisiológico , se inició tratamiento con Riluzol 50 mg , un comprimido cada 12 horas .
+# sentence_id = 193
+1 Tras O
+2 la O
+3 valoración O
+4 del O
+5 paciente O
+6 y O
+7 con O
+8 diagnóstico O
+9 de O
+10 probable O
+11 ELA O
+12 , O
+13 según O
+14 los O
+15 criterios O
+16 revisados O
+17 de O
+18 El O
+19 Escorial O
+20 , O
+21 y O
+22 pendiente O
+23 de O
+24 completar O
+25 estudio O
+26 con O
+27 resonancia O
+28 magnética O
+29 craneal-medular O
+30 y O
+31 nuevo O
+32 estudio O
+33 neurolofisiológico O
+34 , O
+35 se O
+36 inició O
+37 tratamiento O
+38 con O
+39 Riluzol O
+40 50 O
+41 mg O
+42 , O
+43 un O
+44 comprimido O
+45 cada O
+46 12 O
+47 horas O
+48 . O
+
+# global.columns = id form ner
+# text = Debido a la evolución clínica del paciente con paraparesia proximal en MMII , con importante atrofia muscular de ambos muslos , disfagia para sólidos , sin afectación en miembros superiores ( MMSS ) y correlacionado con último estudio neurofisiológico , se planteó otro posible diagnóstico , en concreto una miopatía .
+# sentence_id = 194
+1 Debido O
+2 a O
+3 la O
+4 evolución O
+5 clínica O
+6 del O
+7 paciente O
+8 con O
+9 paraparesia O
+10 proximal O
+11 en O
+12 MMII O
+13 , O
+14 con O
+15 importante O
+16 atrofia O
+17 muscular O
+18 de O
+19 ambos O
+20 muslos O
+21 , O
+22 disfagia O
+23 para O
+24 sólidos O
+25 , O
+26 sin O
+27 afectación O
+28 en O
+29 miembros O
+30 superiores O
+31 ( O
+32 MMSS O
+33 ) O
+34 y O
+35 correlacionado O
+36 con O
+37 último O
+38 estudio O
+39 neurofisiológico O
+40 , O
+41 se O
+42 planteó O
+43 otro O
+44 posible O
+45 diagnóstico O
+46 , O
+47 en O
+48 concreto O
+49 una O
+50 miopatía O
+51 . O
+
+# global.columns = id form ner
+# text = El EMG sugiere miopatía con afectación bulbar y de cintura pelviana ( miopatía por cuerpos de inclusión ) , por lo que se realizó biopsia muscular , siendo los resultados de la misma contundentes , descartando la posibilidad de enfermedad primaria del musculo esquelético y evidenciándose únicamente cambios secundarios a denervación .
+# sentence_id = 195
+# relations = 30;30;34;34;RESULT_OF
+1 El O
+2 EMG O
+3 sugiere O
+4 miopatía O
+5 con O
+6 afectación O
+7 bulbar O
+8 y O
+9 de O
+10 cintura O
+11 pelviana O
+12 ( O
+13 miopatía O
+14 por O
+15 cuerpos O
+16 de O
+17 inclusión O
+18 ) O
+19 , O
+20 por O
+21 lo O
+22 que O
+23 se O
+24 realizó O
+25 biopsia O
+26 muscular O
+27 , O
+28 siendo O
+29 los O
+30 resultados B-PROCEDURE
+31 de O
+32 la O
+33 misma O
+34 contundentes B-RESULT
+35 , O
+36 descartando O
+37 la O
+38 posibilidad O
+39 de O
+40 enfermedad O
+41 primaria O
+42 del O
+43 musculo O
+44 esquelético O
+45 y O
+46 evidenciándose O
+47 únicamente O
+48 cambios O
+49 secundarios O
+50 a O
+51 denervación O
+52 . O
+
+# global.columns = id form ner
+# text = El paciente posteriormente presentó progresión de los síntomas , evidenciándose debilidad en la flexión dorsal del pie izquierdo ( 4 / 5 ) .
+# sentence_id = 196
+# relations = 11;11;20;22;RESULT_OF
+1 El O
+2 paciente O
+3 posteriormente O
+4 presentó O
+5 progresión O
+6 de O
+7 los O
+8 síntomas O
+9 , O
+10 evidenciándose O
+11 debilidad B-PROCEDURE
+12 en O
+13 la O
+14 flexión O
+15 dorsal O
+16 del O
+17 pie O
+18 izquierdo O
+19 ( O
+20 4 B-RESULT
+21 / I-RESULT
+22 5 I-RESULT
+23 ) O
+24 . O
+
+# global.columns = id form ner
+# text = Atrofia incipiente a nivel del quinto espacio interóseo de la mano izquierda .
+# sentence_id = 197
+1 Atrofia O
+2 incipiente O
+3 a O
+4 nivel O
+5 del O
+6 quinto O
+7 espacio O
+8 interóseo O
+9 de O
+10 la O
+11 mano O
+12 izquierda O
+13 . O
+
+# global.columns = id form ner
+# text = Fasciculaciones difusas por diferentes segmentos corporales , así como leve afonía .
+# sentence_id = 198
+1 Fasciculaciones O
+2 difusas O
+3 por O
+4 diferentes O
+5 segmentos O
+6 corporales O
+7 , O
+8 así O
+9 como O
+10 leve O
+11 afonía O
+12 . O
+
+# global.columns = id form ner
+# text = Finalmente se sugiere el diagnóstico de enfermedad de motoneurona , probable ELA .
+# sentence_id = 199
+1 Finalmente O
+2 se O
+3 sugiere O
+4 el O
+5 diagnóstico O
+6 de O
+7 enfermedad O
+8 de O
+9 motoneurona O
+10 , O
+11 probable O
+12 ELA O
+13 . O
+
+# global.columns = id form ner
+# text = Se continúa tratamiento con Riluzol 50 mg .
+# sentence_id = 200
+1 Se O
+2 continúa O
+3 tratamiento O
+4 con O
+5 Riluzol O
+6 50 O
+7 mg O
+8 . O
+
+# global.columns = id form ner
+# text = Se recomienda logopedia y rehabilitación domiciliaria física y respiratoria .
+# sentence_id = 201
+1 Se O
+2 recomienda O
+3 logopedia O
+4 y O
+5 rehabilitación O
+6 domiciliaria O
+7 física O
+8 y O
+9 respiratoria O
+10 . O
+
+# global.columns = id form ner
+# text = Tras 5 meses del diagnóstico definitivo el paciente presenta un shock séptico de origen urinario y siguientes complicaciones , precisando ventilación mecánica invasiva ( traqueotomía ) , alimentación por gastrostomía percutánea ( PEG ) y trastorno adaptativo secundario , dándose de alta al domicilio .
+# sentence_id = 202
+1 Tras O
+2 5 O
+3 meses O
+4 del O
+5 diagnóstico O
+6 definitivo O
+7 el O
+8 paciente O
+9 presenta O
+10 un O
+11 shock O
+12 séptico O
+13 de O
+14 origen O
+15 urinario O
+16 y O
+17 siguientes O
+18 complicaciones O
+19 , O
+20 precisando O
+21 ventilación O
+22 mecánica O
+23 invasiva O
+24 ( O
+25 traqueotomía O
+26 ) O
+27 , O
+28 alimentación O
+29 por O
+30 gastrostomía O
+31 percutánea O
+32 ( O
+33 PEG O
+34 ) O
+35 y O
+36 trastorno O
+37 adaptativo O
+38 secundario O
+39 , O
+40 dándose O
+41 de O
+42 alta O
+43 al O
+44 domicilio O
+45 . O
+
+# global.columns = id form ner
+# text = A los dos meses presenta exitus .
+# sentence_id = 203
+1 A O
+2 los O
+3 dos O
+4 meses O
+5 presenta O
+6 exitus O
+7 . O
+
+# global.columns = id form ner
+# text = Describimos el caso de una paciente de 58 años .
+# sentence_id = 204
+1 Describimos O
+2 el O
+3 caso O
+4 de O
+5 una O
+6 paciente O
+7 de O
+8 58 O
+9 años O
+10 . O
+
+# global.columns = id form ner
+# text = Como antecedentes refiere histerectomía a los 42 años por metrorragias secundarias a miomas .
+# sentence_id = 205
+1 Como O
+2 antecedentes O
+3 refiere O
+4 histerectomía O
+5 a O
+6 los O
+7 42 O
+8 años O
+9 por O
+10 metrorragias O
+11 secundarias O
+12 a O
+13 miomas O
+14 . O
+
+# global.columns = id form ner
+# text = Dos años antes había sido valorada en Ginecología por osteoporosis densitométrica lumbar ( T-score en L1 - L4 de - 3 , con cifras normales en cuello femoral ) , tratada con denosumab y suplementos de vitamina D .
+# sentence_id = 206
+# relations = 14;14;20;21;RESULT_OF|14;14;24;25;RESULT_OF
+1 Dos O
+2 años O
+3 antes O
+4 había O
+5 sido O
+6 valorada O
+7 en O
+8 Ginecología O
+9 por O
+10 osteoporosis O
+11 densitométrica O
+12 lumbar O
+13 ( O
+14 T-score B-PROCEDURE
+15 en O
+16 L1 O
+17 - O
+18 L4 O
+19 de O
+20 - B-RESULT
+21 3 I-RESULT
+22 , O
+23 con O
+24 cifras B-RESULT
+25 normales I-RESULT
+26 en O
+27 cuello O
+28 femoral O
+29 ) O
+30 , O
+31 tratada O
+32 con O
+33 denosumab O
+34 y O
+35 suplementos O
+36 de O
+37 vitamina O
+38 D O
+39 . O
+
+# global.columns = id form ner
+# text = No refería hábitos tóxicos , ni antecedentes personales ni familiares de fractura , y su IMC era normal .
+# sentence_id = 207
+# relations = 16;16;18;18;RESULT_OF
+1 No O
+2 refería O
+3 hábitos O
+4 tóxicos O
+5 , O
+6 ni O
+7 antecedentes O
+8 personales O
+9 ni O
+10 familiares O
+11 de O
+12 fractura O
+13 , O
+14 y O
+15 su O
+16 IMC B-PROCEDURE
+17 era O
+18 normal B-RESULT
+19 . O
+
+# global.columns = id form ner
+# text = Consultó por dolor mecánico en el pie izquierdo , de inicio agudo , sin inflamación ni causa desencadenante , que había ido aumentando de intensidad hasta hacerse refractario a AINEs .
+# sentence_id = 208
+1 Consultó O
+2 por O
+3 dolor O
+4 mecánico O
+5 en O
+6 el O
+7 pie O
+8 izquierdo O
+9 , O
+10 de O
+11 inicio O
+12 agudo O
+13 , O
+14 sin O
+15 inflamación O
+16 ni O
+17 causa O
+18 desencadenante O
+19 , O
+20 que O
+21 había O
+22 ido O
+23 aumentando O
+24 de O
+25 intensidad O
+26 hasta O
+27 hacerse O
+28 refractario O
+29 a O
+30 AINEs O
+31 . O
+
+# global.columns = id form ner
+# text = En la exploración no había ningún hallazgo llamativo , salvo dolor a la movilización del antepié izquierdo .
+# sentence_id = 209
+1 En O
+2 la O
+3 exploración O
+4 no O
+5 había O
+6 ningún O
+7 hallazgo O
+8 llamativo O
+9 , O
+10 salvo O
+11 dolor O
+12 a O
+13 la O
+14 movilización O
+15 del O
+16 antepié O
+17 izquierdo O
+18 . O
+
+# global.columns = id form ner
+# text = No se observaron alteraciones de la estática de pies .
+# sentence_id = 210
+1 No O
+2 se O
+3 observaron O
+4 alteraciones O
+5 de O
+6 la O
+7 estática O
+8 de O
+9 pies O
+10 . O
+
+# global.columns = id form ner
+# text = La paciente aportaba Rx de pies que no mostraba hallazgos patológicos .
+# sentence_id = 211
+1 La O
+2 paciente O
+3 aportaba O
+4 Rx O
+5 de O
+6 pies O
+7 que O
+8 no O
+9 mostraba O
+10 hallazgos O
+11 patológicos O
+12 . O
+
+# global.columns = id form ner
+# text = Se solicitó una RMN de pie izquierdo , que reveló una fractura de estrés en el 2o MTT con callo perióstico y edema de tejidos blandos .
+# sentence_id = 212
+1 Se O
+2 solicitó O
+3 una O
+4 RMN O
+5 de O
+6 pie O
+7 izquierdo O
+8 , O
+9 que O
+10 reveló O
+11 una O
+12 fractura O
+13 de O
+14 estrés O
+15 en O
+16 el O
+17 2o O
+18 MTT O
+19 con O
+20 callo O
+21 perióstico O
+22 y O
+23 edema O
+24 de O
+25 tejidos O
+26 blandos O
+27 . O
+
+# global.columns = id form ner
+# text = Se realizó estudio analítico destacando incremento de niveles de PTH y vitamina D ( 103,7 pg / ml y 272 ng / ml , respectivamente ) , atribuidos al exceso de suplementación de vitamina D .
+# sentence_id = 213
+# relations = 10;10;15;18;RESULT_OF|12;12;20;23;RESULT_OF
+1 Se O
+2 realizó O
+3 estudio O
+4 analítico O
+5 destacando O
+6 incremento O
+7 de O
+8 niveles O
+9 de O
+10 PTH B-PROCEDURE
+11 y O
+12 vitamina B-PROCEDURE
+13 D O
+14 ( O
+15 103,7 B-RESULT
+16 pg I-RESULT
+17 / I-RESULT
+18 ml I-RESULT
+19 y O
+20 272 B-RESULT
+21 ng I-RESULT
+22 / I-RESULT
+23 ml I-RESULT
+24 , O
+25 respectivamente O
+26 ) O
+27 , O
+28 atribuidos O
+29 al O
+30 exceso O
+31 de O
+32 suplementación O
+33 de O
+34 vitamina O
+35 D O
+36 . O
+
+# global.columns = id form ner
+# text = La función renal , y el calcio sérico y urinario fueron normales .
+# sentence_id = 214
+# relations = 2;2;12;12;RESULT_OF|7;7;12;12;RESULT_OF
+1 La O
+2 función B-PROCEDURE
+3 renal O
+4 , O
+5 y O
+6 el O
+7 calcio B-PROCEDURE
+8 sérico O
+9 y O
+10 urinario O
+11 fueron O
+12 normales B-RESULT
+13 . O
+
+# global.columns = id form ner
+# text = Se suspendió el tratamiento con suplementos de vitamina D y denosumab .
+# sentence_id = 215
+1 Se O
+2 suspendió O
+3 el O
+4 tratamiento O
+5 con O
+6 suplementos O
+7 de O
+8 vitamina O
+9 D O
+10 y O
+11 denosumab O
+12 . O
+
+# global.columns = id form ner
+# text = Valorada por el Servicio de Traumatología , se indicó tratamiento conservador con descarga , reposo relativo , AINEs y magnetoterapia , con mejoría progresiva .
+# sentence_id = 216
+1 Valorada O
+2 por O
+3 el O
+4 Servicio O
+5 de O
+6 Traumatología O
+7 , O
+8 se O
+9 indicó O
+10 tratamiento O
+11 conservador O
+12 con O
+13 descarga O
+14 , O
+15 reposo O
+16 relativo O
+17 , O
+18 AINEs O
+19 y O
+20 magnetoterapia O
+21 , O
+22 con O
+23 mejoría O
+24 progresiva O
+25 . O
+
+# global.columns = id form ner
+# text = Por la edad de la paciente , 58 años , y el predominio de osteoporosis a nivel lumbar , se consideró una candidata adecuada para el tratamiento con SERMS ( bazedoxifeno ) , asociados a suplementos de calcio con vitamina D .
+# sentence_id = 217
+1 Por O
+2 la O
+3 edad O
+4 de O
+5 la O
+6 paciente O
+7 , O
+8 58 O
+9 años O
+10 , O
+11 y O
+12 el O
+13 predominio O
+14 de O
+15 osteoporosis O
+16 a O
+17 nivel O
+18 lumbar O
+19 , O
+20 se O
+21 consideró O
+22 una O
+23 candidata O
+24 adecuada O
+25 para O
+26 el O
+27 tratamiento O
+28 con O
+29 SERMS O
+30 ( O
+31 bazedoxifeno O
+32 ) O
+33 , O
+34 asociados O
+35 a O
+36 suplementos O
+37 de O
+38 calcio O
+39 con O
+40 vitamina O
+41 D O
+42 . O
+
+# global.columns = id form ner
+# text = Un año después , en el mismo mes en el que comenzó con dolor en el episodio anterior , refiere de nuevo los mismos síntomas en pie izquierdo , sin causa desencadenante .
+# sentence_id = 218
+1 Un O
+2 año O
+3 después O
+4 , O
+5 en O
+6 el O
+7 mismo O
+8 mes O
+9 en O
+10 el O
+11 que O
+12 comenzó O
+13 con O
+14 dolor O
+15 en O
+16 el O
+17 episodio O
+18 anterior O
+19 , O
+20 refiere O
+21 de O
+22 nuevo O
+23 los O
+24 mismos O
+25 síntomas O
+26 en O
+27 pie O
+28 izquierdo O
+29 , O
+30 sin O
+31 causa O
+32 desencadenante O
+33 . O
+
+# global.columns = id form ner
+# text = Se solicitó una Rx que mostró callo de fractura antiguo en 2o MTT por fractura de estrés previa , sin otros hallazgos .
+# sentence_id = 219
+1 Se O
+2 solicitó O
+3 una O
+4 Rx O
+5 que O
+6 mostró O
+7 callo O
+8 de O
+9 fractura O
+10 antiguo O
+11 en O
+12 2o O
+13 MTT O
+14 por O
+15 fractura O
+16 de O
+17 estrés O
+18 previa O
+19 , O
+20 sin O
+21 otros O
+22 hallazgos O
+23 . O
+
+# global.columns = id form ner
+# text = Se realizó RMN de pie izquierdo para completar estudio que mostró edema de 1er y 3er MTT , de huesos cuneiforme , escafoides y astrágalo , y tenosinovitis del tibial posterior .
+# sentence_id = 220
+1 Se O
+2 realizó O
+3 RMN O
+4 de O
+5 pie O
+6 izquierdo O
+7 para O
+8 completar O
+9 estudio O
+10 que O
+11 mostró O
+12 edema O
+13 de O
+14 1er O
+15 y O
+16 3er O
+17 MTT O
+18 , O
+19 de O
+20 huesos O
+21 cuneiforme O
+22 , O
+23 escafoides O
+24 y O
+25 astrágalo O
+26 , O
+27 y O
+28 tenosinovitis O
+29 del O
+30 tibial O
+31 posterior O
+32 . O
+
+# global.columns = id form ner
+# text = Se solicitó una nueva densitometría ósea , que mostró una T-score en columna lumbar de - 3,5 .
+# sentence_id = 221
+# relations = 11;11;16;17;RESULT_OF
+1 Se O
+2 solicitó O
+3 una O
+4 nueva O
+5 densitometría O
+6 ósea O
+7 , O
+8 que O
+9 mostró O
+10 una O
+11 T-score B-PROCEDURE
+12 en O
+13 columna O
+14 lumbar O
+15 de O
+16 - B-RESULT
+17 3,5 I-RESULT
+18 . O
+
+# global.columns = id form ner
+# text = La paciente no había tomado de forma continuada el bazedoxifeno y la vitamina D , por lo que se insistió en la importancia de reanudarlos dadas las cifras de densidad mineral ósea , que habían empeorado .
+# sentence_id = 222
+1 La O
+2 paciente O
+3 no O
+4 había O
+5 tomado O
+6 de O
+7 forma O
+8 continuada O
+9 el O
+10 bazedoxifeno O
+11 y O
+12 la O
+13 vitamina O
+14 D O
+15 , O
+16 por O
+17 lo O
+18 que O
+19 se O
+20 insistió O
+21 en O
+22 la O
+23 importancia O
+24 de O
+25 reanudarlos O
+26 dadas O
+27 las O
+28 cifras O
+29 de O
+30 densidad O
+31 mineral O
+32 ósea O
+33 , O
+34 que O
+35 habían O
+36 empeorado O
+37 . O
+
+# global.columns = id form ner
+# text = Las fracturas fueron tratadas con rehabilitación y descarga con mejoría progresiva .
+# sentence_id = 223
+1 Las O
+2 fracturas O
+3 fueron O
+4 tratadas O
+5 con O
+6 rehabilitación O
+7 y O
+8 descarga O
+9 con O
+10 mejoría O
+11 progresiva O
+12 . O
+
+# global.columns = id form ner
+# text = Valorando el caso globalmente , nos planteamos la osteoporosis como factor predisponente , ya que la paciente no era obesa , ni había presentado traumatismos ni otros factores de riesgo .
+# sentence_id = 224
+1 Valorando O
+2 el O
+3 caso O
+4 globalmente O
+5 , O
+6 nos O
+7 planteamos O
+8 la O
+9 osteoporosis O
+10 como O
+11 factor O
+12 predisponente O
+13 , O
+14 ya O
+15 que O
+16 la O
+17 paciente O
+18 no O
+19 era O
+20 obesa O
+21 , O
+22 ni O
+23 había O
+24 presentado O
+25 traumatismos O
+26 ni O
+27 otros O
+28 factores O
+29 de O
+30 riesgo O
+31 . O
+
+# global.columns = id form ner
+# text = El hecho de que los dos episodios de dolor se iniciasen el mismo mes ( coincidiendo con cambio de estación ) con un año de diferencia , nos pareció un dato llamativo .
+# sentence_id = 225
+1 El O
+2 hecho O
+3 de O
+4 que O
+5 los O
+6 dos O
+7 episodios O
+8 de O
+9 dolor O
+10 se O
+11 iniciasen O
+12 el O
+13 mismo O
+14 mes O
+15 ( O
+16 coincidiendo O
+17 con O
+18 cambio O
+19 de O
+20 estación O
+21 ) O
+22 con O
+23 un O
+24 año O
+25 de O
+26 diferencia O
+27 , O
+28 nos O
+29 pareció O
+30 un O
+31 dato O
+32 llamativo O
+33 . O
+
+# global.columns = id form ner
+# text = La paciente no refería ningún cambio en sus costumbres ni en su actividad física ( sedentaria ) en esas épocas , por lo que consideramos que quizá el cambio de tipo de calzado pudo suponer una sobrecarga del pie izquierdo , favoreciendo la aparición de nuevas fracturas de estrés .
+# sentence_id = 226
+1 La O
+2 paciente O
+3 no O
+4 refería O
+5 ningún O
+6 cambio O
+7 en O
+8 sus O
+9 costumbres O
+10 ni O
+11 en O
+12 su O
+13 actividad O
+14 física O
+15 ( O
+16 sedentaria O
+17 ) O
+18 en O
+19 esas O
+20 épocas O
+21 , O
+22 por O
+23 lo O
+24 que O
+25 consideramos O
+26 que O
+27 quizá O
+28 el O
+29 cambio O
+30 de O
+31 tipo O
+32 de O
+33 calzado O
+34 pudo O
+35 suponer O
+36 una O
+37 sobrecarga O
+38 del O
+39 pie O
+40 izquierdo O
+41 , O
+42 favoreciendo O
+43 la O
+44 aparición O
+45 de O
+46 nuevas O
+47 fracturas O
+48 de O
+49 estrés O
+50 . O
+
